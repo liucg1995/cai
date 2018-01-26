@@ -44,7 +44,7 @@ $("input[name=chk_All]").live("click",function(){
 function sendrecordBeforeDelete(){
 	//获取ID
 	var byid="";
-	var tourl="/index.php/box/senddeleteAll/";
+	var tourl="/index.php/sign/senddeleteAll/";
 	var a=document.getElementsByName("chk_only");
 	for(var i=0,len=a.length;i<len;i++){
 		if(a.item(i).checked){
@@ -71,19 +71,13 @@ function senddeleteBet(err, data){
 		alert(err);
 	}else{
 		alert('删除成功');
-		load('Box/sendbox');
+		load('sign/index');
 	}
 }
 </script>
 <article class="module width_full">
 <input type="hidden" value="<?=$this->user['username']?>" />
     <header>
-    	<h3 class="tabs_involved">发件箱
-            <form action="/index.php/Box/sendlist" target="ajax" dataType="html" call="defaultSearch" class="submit_link wz">
-                时间：从 <input type="date" class="alt_btn" name="fromTime"/> 到 <input type="date" class="alt_btn" name="toTime"/>&nbsp;&nbsp;
-                <input type="submit" value="查找" class="alt_btn">
-            </form>
-        </h3>
     </header>
     <div class="tab_content">
 		<?php $this->display("sign/list.php") ?>

@@ -12,5 +12,14 @@ class Sign extends AdminBase{
 		$this->display('sign/list.php');
 	}
 
+    public final function senddeleteAll($id){
+        $id=wjStrFilter($id);
+        $arr = explode("-",$id);
+        $ids = implode(",",$arr);
+         $sql="delete from {$this->prename}sign_time where id in (".$ids.")";
+         $row = $this->exec($sql);
+        DIE;
+    }
+
 
 }

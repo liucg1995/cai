@@ -43,11 +43,11 @@
     </tr>
 <?php }else{ ?>
 		<tr>
-			<td colspan="6" align="center">暂时没有数据。</td>
+			<td colspan="8" align="center">暂时没有数据。</td>
 		</tr>
 	<?php } ?>
     <tr>
-    	<td colspan="6" style="text-align:left; padding-left:10px;">
+    	<td colspan="8" style="text-align:left; padding-left:10px;">
            <label>&nbsp&nbsp&nbsp&nbsp<INPUT  id="chk_All" type="checkbox" value="All" name="chk_All">&nbsp&nbsp全选</label>&nbsp&nbsp
            <a href="/index.php/sign/senddelete/" dataType="json" class="removeAllRecord" onajax="sendrecordBeforeDelete" call="senddeleteBet" target="ajax"><input name="delall" type="button" value="删 除" /></a>
 		</td>
