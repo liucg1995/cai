@@ -41,9 +41,18 @@
 
 	$sql="select c.*, c.username as uname, u.username, u.parents from {$this->prename}member_recharge c, {$this->prename}members u where c.isDelete=0 $rechargeIdWhere $timeWhere $userWhere $typeWhere and c.uid=u.uid order by c.id desc";
 	$data=$this->getPage($sql, $this->page, $this->pageSize);
-	
-	$sql="select b.home, b.name, u.id, u.account, u.username from {$this->prename}sysadmin_bank u, {$this->prename}bank_list b where b.isDelete=0 and u.admin=1 and u.bankId=b.id";
-	$bank=$this->getObject($sql, 'id');
+
+$sql="select * from {$this->prename}bank_list  ";
+
+$banks = $this->getRows($sql);
+foreach ($banks as $val){
+	$bank[$val["id"]] = $val["name"];
+}
+unset($banks);
+
+
+//	$sql="select b.home, b.name, u.id, u.account, u.username from {$this->prename}sysadmin_bank u, {$this->prename}bank_list b where b.isDelete=0 and u.admin=1 and u.bankId=b.id";
+//	$bank=$this->getObject($sql, 'id');
 ?>
 <table class="tablesorter" cellspacing="0">
 <input type="hidden" value="<?=$this->user['username']?>" />
@@ -75,7 +84,8 @@
         
         
         <td><?=$var['rechargeId']?></td>
-        <td><a href="<?=$bank[$var['mBankId']]['home']?>" title="银行帐号：<?=$bank[$var['mBankId']]['account']?>，开户名：<?=$bank[$var['mBankId']]['username']?>" target="_blank"><?=$bank[$var['mBankId']]['name']?></a></td>
+<!--        <td><a href="--><?//=$bank[$var['mBankId']]['home']?><!--" title="银行帐号：--><?//=$bank[$var['mBankId']]['account']?><!--，开户名：--><?//=$bank[$var['mBankId']]['username']?><!--" target="_blank">--><?//=$bank[$var['mBankId']]['name']?><!--</a></td>-->
+		<td><?=$bank[$var['mBankId']]?></td>
         <td><?=$this->iff($var['state'], '充值成功', '正在充值')?></td>
         <td><?=$var['info']?></td>
         <td><?=date('Y-m-d H:i:s', $var['actionTime'])?></td>

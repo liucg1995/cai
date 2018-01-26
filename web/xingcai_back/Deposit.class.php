@@ -40,6 +40,11 @@ class Deposit extends WebLoginBase
         $para['amount'] = floatval($_POST['amount']);
         $userName = trim($_POST['userName']);
         $flag = trim($_POST['flag']);
+        if($flag=='1'){
+            $para['bankId'] = 21;
+        }else if($flag=='2'){
+            $para['bankId'] = 22;
+        }
 
         /*if ($para['amount'] <= 0) throw new Exception('充值金额错误，请重新操作');
         if ($id = $this->getValue("select bankId from {$this->prename}sysadmin_bank where id=?", $para['mBankId'])) {

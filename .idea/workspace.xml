@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49c53bc5-d798-4178-9a6a-b07c498b9d60" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/xingcai_Front/cash/rechargebak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assets/js/application/rechargebak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/qrcode.png" afterPath="$PROJECT_DIR$/wap/qrcode.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/_blast_buffer/systemSettings" afterPath="$PROJECT_DIR$/admin/_blast_buffer/systemSettings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/blast_Front/admin/business/recharge-log-list.php" afterPath="$PROJECT_DIR$/admin/blast_Front/admin/business/recharge-log-list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/_xingcai__buffer/systemSettings" afterPath="$PROJECT_DIR$/wap/_xingcai__buffer/systemSettings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/assets/js/application/recharge.js" afterPath="$PROJECT_DIR$/wap/assets/js/application/recharge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php" afterPath="$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_back/Cash.class.php" afterPath="$PROJECT_DIR$/wap/xingcai_back/Cash.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/_xingcai_buffer/systemSettings" afterPath="$PROJECT_DIR$/web/_xingcai_buffer/systemSettings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/files/general.js" afterPath="$PROJECT_DIR$/web/files/general.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/xingcai_back/Cash.class.php" afterPath="$PROJECT_DIR$/web/xingcai_back/Cash.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/xingcai_back/Deposit.class.php" afterPath="$PROJECT_DIR$/web/xingcai_back/Deposit.class.php" />
+    </list>
+    <ignored path="cai.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cai" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="recharge.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="494" column="55" selection-start-line="494" selection-start-column="45" selection-end-line="494" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1516955787187" expanded="false" signature="5681:5691" ph="..." />
+                <marker date="1516955787187" expanded="false" signature="5826:5840" ph="..." />
+                <marker date="1516955787187" expanded="false" signature="5931:5942" ph="..." />
+                <marker date="1516955787187" expanded="false" signature="6070:6084" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recharge-log-list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/business/recharge-log-list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+              <folding>
+                <marker date="1516953827477" expanded="true" signature="1223:1447" ph="select c.*, $" />
+                <marker date="1516953827477" expanded="true" signature="1516:1555" ph="select * fro... $" />
+                <marker date="1516953827477" expanded="true" signature="1681:1848" ph="select b.hom... $" />
+                <marker date="1516953827477" expanded="true" signature="2598:2675" ph="select usern... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deposit.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/xingcai_back/Deposit.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+              <folding>
+                <marker date="1516953941388" expanded="true" signature="130:252" ph="select *,t2.... blast_sysadmin_bank" />
+                <marker date="1516953941388" expanded="true" signature="2641:2705" ph="select id fr... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cash.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Cash.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="279" column="46" selection-start-line="279" selection-start-column="46" selection-end-line="279" selection-end-column="46" />
+              <folding>
+                <marker date="1516955965694" expanded="true" signature="762:936" ph="select c.*, $" />
+                <marker date="1516955965694" expanded="true" signature="1277:1498" ph="select a.rec... $" />
+                <marker date="1516955965694" expanded="true" signature="2024:2184" ph="select m.*,b... $" />
+                <marker date="1516955965694" expanded="true" signature="2791:2842" ph="select * fro... $" />
+                <marker date="1516955965694" expanded="true" signature="3183:3347" ph="update ${{$t... " />
+                <marker date="1516955965694" expanded="true" signature="3940:4023" ph="select usern... $" />
+                <marker date="1516955965694" expanded="true" signature="5067:5283" ph="select sum(c... $" />
+                <marker date="1516955965694" expanded="true" signature="5445:5582" ph="select sum(m... $" />
+                <marker date="1516955965694" expanded="true" signature="6053:6135" ph="select count... $" />
+                <marker date="1516955965694" expanded="true" signature="6192:6261" ph="select maxTo... $" />
+                <marker date="1516955965694" expanded="true" signature="7088:7139" ph="select * fro... $" />
+                <marker date="1516955965694" expanded="true" signature="7699:7755" ph="update ${{$t... " />
+                <marker date="1516955965694" expanded="true" signature="10498:10553" ph="select usern... $" />
+                <marker date="1516955965694" expanded="true" signature="12777:12832" ph="select usern... $" />
+                <marker date="1516955965694" expanded="true" signature="15194:15276" ph="select count... $" />
+                <marker date="1516955965694" expanded="true" signature="15430:15507" ph="select uid f... $" />
+                <marker date="1516955965694" expanded="true" signature="15704:15772" ph="update ${{$t... " />
+                <marker date="1516955965694" expanded="true" signature="17165:17229" ph="select id fr... $" />
+                <marker date="1516955965694" expanded="true" signature="18319:18401" ph="select count... $" />
+                <marker date="1516955965694" expanded="true" signature="18537:18614" ph="select uid f... $" />
+                <marker date="1516955965694" expanded="true" signature="18734:18802" ph="update ${{$t... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cash.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/xingcai_back/Cash.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
+              <folding>
+                <marker date="1516955942893" expanded="true" signature="1509:1568" ph="select bankI... $" />
+                <marker date="1516955942893" expanded="true" signature="3350:3401" ph="select * fro... $" />
+                <marker date="1516955942893" expanded="true" signature="3742:3906" ph="update ${{$t... " />
+                <marker date="1516955942893" expanded="true" signature="4515:4598" ph="select usern... $" />
+                <marker date="1516955942893" expanded="true" signature="5704:5920" ph="select sum(c... $" />
+                <marker date="1516955942893" expanded="true" signature="6082:6219" ph="select sum(m... $" />
+                <marker date="1516955942893" expanded="true" signature="6726:6808" ph="select count... $" />
+                <marker date="1516955942893" expanded="true" signature="6865:6934" ph="select maxTo... $" />
+                <marker date="1516955942893" expanded="true" signature="7811:7862" ph="select * fro... $" />
+                <marker date="1516955942893" expanded="true" signature="8422:8478" ph="update ${{$t... " />
+                <marker date="1516955942893" expanded="true" signature="11542:11606" ph="select id fr... $" />
+                <marker date="1516955942893" expanded="true" signature="11927:11982" ph="select usern... $" />
+                <marker date="1516955942893" expanded="true" signature="13714:13769" ph="select usern... $" />
+                <marker date="1516955942893" expanded="true" signature="16623:16705" ph="select count... $" />
+                <marker date="1516955942893" expanded="true" signature="16857:16934" ph="select uid f... $" />
+                <marker date="1516955942893" expanded="true" signature="17127:17195" ph="update ${{$t... " />
+                <marker date="1516955942893" expanded="true" signature="19209:19291" ph="select count... $" />
+                <marker date="1516955942893" expanded="true" signature="19427:19504" ph="select uid f... $" />
+                <marker date="1516955942893" expanded="true" signature="19624:19692" ph="update ${{$t... " />
+                <marker date="1516955942893" expanded="true" signature="23629:23711" ph="select count... $" />
+                <marker date="1516955942893" expanded="true" signature="23844:23921" ph="select uid f... $" />
+                <marker date="1516955942893" expanded="true" signature="24047:24115" ph="update ${{$t... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recharge.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/assets/js/application/recharge.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="399" column="24" selection-start-line="399" selection-start-column="13" selection-end-line="399" selection-end-column="24" />
+              <folding>
+                <marker date="1516951207792" expanded="true" signature="12184:12202" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="12216:12229" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="12345:12410" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="12727:12758" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="12808:12839" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="13256:13287" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="13362:13396" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="15540:15570" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="15909:15965" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="16040:16099" ph="..." />
+                <marker date="1516951207792" expanded="true" signature="16871:16877" ph=" " />
+                <marker date="1516951207792" expanded="true" signature="16877:16883" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rechargebak.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/rechargebak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-171">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wap/assets/js/application/recharge.js" />
+        <option value="$PROJECT_DIR$/web/files/general.js" />
+        <option value="$PROJECT_DIR$/admin/blast_Front/admin/business/recharge-log-list.php" />
+        <option value="$PROJECT_DIR$/web/xingcai_back/Deposit.class.php" />
+        <option value="$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php" />
+        <option value="$PROJECT_DIR$/web/xingcai_back/Cash.class.php" />
+        <option value="$PROJECT_DIR$/wap/xingcai_back/Cash.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="703" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xingcai_back" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xingcai_back" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blast_Front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blast_Front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="business" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\phpStudy\WWW\cai\web\assets\js\application" />
+      <recent name="E:\phpStudy\WWW\cai\wap\xingcai_Front\cash" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c53bc5-d798-4178-9a6a-b07c498b9d60" name="Default" comment="" />
+      <created>1516949206411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516949206411</updated>
+      <workItem from="1516949208902" duration="6491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6491000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="703" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Safe.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1505281872976" expanded="true" signature="799:869" ph="select passw... $" />
+            <marker date="1505281872976" expanded="true" signature="1336:1392" ph="select passw... $" />
+            <marker date="1505281872976" expanded="true" signature="1513:1569" ph="update ${{$t... " />
+            <marker date="1505281872976" expanded="true" signature="1862:1941" ph="select passw... $" />
+            <marker date="1505281872976" expanded="true" signature="2267:2327" ph="update ${{$t... " />
+            <marker date="1505281872976" expanded="true" signature="2645:2743" ph="select * fro... $" />
+            <marker date="1505281872976" expanded="true" signature="3060:3115" ph="update ${{$t... " />
+            <marker date="1505281872976" expanded="true" signature="3512:3582" ph="select passw... $" />
+            <marker date="1505281872976" expanded="true" signature="3991:4051" ph="update ${{$t... " />
+            <marker date="1505281872976" expanded="true" signature="5299:5369" ph="select editE... $" />
+            <marker date="1505281872976" expanded="true" signature="6605:6676" ph="select accou... $" />
+            <marker date="1505281872976" expanded="true" signature="6788:6860" ph="select usern... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/rechargebak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/js/application/rechargebak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <marker date="1503045929839" expanded="true" signature="12115:12133" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="12147:12160" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="12276:12341" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="12658:12689" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="12739:12770" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="13187:13218" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="13293:13327" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="15471:15501" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="15840:15896" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="15971:16030" ph="..." />
+            <marker date="1503045929839" expanded="true" signature="16802:16808" ph=" " />
+            <marker date="1503045929839" expanded="true" signature="16808:16814" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/assets/js/application/recharge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="399" column="24" selection-start-line="399" selection-start-column="13" selection-end-line="399" selection-end-column="24" />
+          <folding>
+            <marker date="1516951207792" expanded="true" signature="12184:12202" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="12216:12229" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="12345:12410" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="12727:12758" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="12808:12839" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="13256:13287" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="13362:13396" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="15540:15570" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="15909:15965" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="16040:16099" ph="..." />
+            <marker date="1516951207792" expanded="true" signature="16871:16877" ph=" " />
+            <marker date="1516951207792" expanded="true" signature="16877:16883" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/xingcai_Front/cash/gaotong/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/files/general.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="676" column="0" selection-start-line="676" selection-start-column="0" selection-end-line="676" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/xingcai_Front/safe/c38_cz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-851">
+          <caret line="150" column="36" selection-start-line="150" selection-start-column="36" selection-end-line="166" selection-end-column="84" />
+          <folding>
+            <marker date="1516859356125" expanded="true" signature="59:109" ph="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/xingcai_back/Deposit.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <marker date="1516953941388" expanded="true" signature="130:252" ph="select *,t2.... blast_sysadmin_bank" />
+            <marker date="1516953941388" expanded="true" signature="2641:2705" ph="select id fr... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/business/recharge-log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="494" column="55" selection-start-line="494" selection-start-column="45" selection-end-line="494" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1516955787187" expanded="false" signature="5681:5691" ph="..." />
+            <marker date="1516955787187" expanded="false" signature="5826:5840" ph="..." />
+            <marker date="1516955787187" expanded="false" signature="5931:5942" ph="..." />
+            <marker date="1516955787187" expanded="false" signature="6070:6084" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/business/recharge-log-list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <marker date="1516953827477" expanded="true" signature="1223:1447" ph="select c.*, $" />
+            <marker date="1516953827477" expanded="true" signature="1516:1555" ph="select * fro... $" />
+            <marker date="1516953827477" expanded="true" signature="1681:1848" ph="select b.hom... $" />
+            <marker date="1516953827477" expanded="true" signature="2598:2675" ph="select usern... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/xingcai_back/Cash.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
+          <folding>
+            <marker date="1516955942893" expanded="true" signature="1509:1568" ph="select bankI... $" />
+            <marker date="1516955942893" expanded="true" signature="3350:3401" ph="select * fro... $" />
+            <marker date="1516955942893" expanded="true" signature="3742:3906" ph="update ${{$t... " />
+            <marker date="1516955942893" expanded="true" signature="4515:4598" ph="select usern... $" />
+            <marker date="1516955942893" expanded="true" signature="5704:5920" ph="select sum(c... $" />
+            <marker date="1516955942893" expanded="true" signature="6082:6219" ph="select sum(m... $" />
+            <marker date="1516955942893" expanded="true" signature="6726:6808" ph="select count... $" />
+            <marker date="1516955942893" expanded="true" signature="6865:6934" ph="select maxTo... $" />
+            <marker date="1516955942893" expanded="true" signature="7811:7862" ph="select * fro... $" />
+            <marker date="1516955942893" expanded="true" signature="8422:8478" ph="update ${{$t... " />
+            <marker date="1516955942893" expanded="true" signature="11542:11606" ph="select id fr... $" />
+            <marker date="1516955942893" expanded="true" signature="11927:11982" ph="select usern... $" />
+            <marker date="1516955942893" expanded="true" signature="13714:13769" ph="select usern... $" />
+            <marker date="1516955942893" expanded="true" signature="16623:16705" ph="select count... $" />
+            <marker date="1516955942893" expanded="true" signature="16857:16934" ph="select uid f... $" />
+            <marker date="1516955942893" expanded="true" signature="17127:17195" ph="update ${{$t... " />
+            <marker date="1516955942893" expanded="true" signature="19209:19291" ph="select count... $" />
+            <marker date="1516955942893" expanded="true" signature="19427:19504" ph="select uid f... $" />
+            <marker date="1516955942893" expanded="true" signature="19624:19692" ph="update ${{$t... " />
+            <marker date="1516955942893" expanded="true" signature="23629:23711" ph="select count... $" />
+            <marker date="1516955942893" expanded="true" signature="23844:23921" ph="select uid f... $" />
+            <marker date="1516955942893" expanded="true" signature="24047:24115" ph="update ${{$t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Cash.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="279" column="46" selection-start-line="279" selection-start-column="46" selection-end-line="279" selection-end-column="46" />
+          <folding>
+            <marker date="1516955965694" expanded="true" signature="762:936" ph="select c.*, $" />
+            <marker date="1516955965694" expanded="true" signature="1277:1498" ph="select a.rec... $" />
+            <marker date="1516955965694" expanded="true" signature="2024:2184" ph="select m.*,b... $" />
+            <marker date="1516955965694" expanded="true" signature="2791:2842" ph="select * fro... $" />
+            <marker date="1516955965694" expanded="true" signature="3183:3347" ph="update ${{$t... " />
+            <marker date="1516955965694" expanded="true" signature="3940:4023" ph="select usern... $" />
+            <marker date="1516955965694" expanded="true" signature="5067:5283" ph="select sum(c... $" />
+            <marker date="1516955965694" expanded="true" signature="5445:5582" ph="select sum(m... $" />
+            <marker date="1516955965694" expanded="true" signature="6053:6135" ph="select count... $" />
+            <marker date="1516955965694" expanded="true" signature="6192:6261" ph="select maxTo... $" />
+            <marker date="1516955965694" expanded="true" signature="7088:7139" ph="select * fro... $" />
+            <marker date="1516955965694" expanded="true" signature="7699:7755" ph="update ${{$t... " />
+            <marker date="1516955965694" expanded="true" signature="10498:10553" ph="select usern... $" />
+            <marker date="1516955965694" expanded="true" signature="12777:12832" ph="select usern... $" />
+            <marker date="1516955965694" expanded="true" signature="15194:15276" ph="select count... $" />
+            <marker date="1516955965694" expanded="true" signature="15430:15507" ph="select uid f... $" />
+            <marker date="1516955965694" expanded="true" signature="15704:15772" ph="update ${{$t... " />
+            <marker date="1516955965694" expanded="true" signature="17165:17229" ph="select id fr... $" />
+            <marker date="1516955965694" expanded="true" signature="18319:18401" ph="select count... $" />
+            <marker date="1516955965694" expanded="true" signature="18537:18614" ph="select uid f... $" />
+            <marker date="1516955965694" expanded="true" signature="18734:18802" ph="update ${{$t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -159,63 +159,64 @@
                 <!--	                <label for="www"><a  data-type="online" style="width: 20%;">网银支付</a></label>-->
                 <!--	                <input type="radio" id="www" name="recharge_type" value="abc" style="display: none;"/>-->
             </div>
-            <div class="rech_cont rech_bank" style="display:none;">
-                <!-- 银行充值 -->
-                <ul class="wechat-box">
-
-                    <li class="rech-money">
-                        <div style="width: 100%;margin-bottom: 10px;">
-                            <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""    style="float:left;height:30px;line-height:30px;"/>
-                        </div>
-                    </li>
-                    <li>
-                        <select class="bank">
-                            <option>请选择银行</option>
-                            <option value=" 3" bankurl="http://www.abchina.com"> 中国农业银行</option>
-                            <option value=" 6" bankurl="http://www.ccb.com/"> 中国建设银行</option>
-                            <option value=" 1" bankurl="http://www.icbc.com.cn"> 中国工商银行</option>
-                            <option value=" 7" bankurl="http://www.cmbchina.com/"> 招商银行</option>
-                            <option value=" 8" bankurl="http://www.boc.cn/"> 中国银行</option>
-                            <option value=" 15" bankurl="http://www.cmbc.com.cn/"> 中国民生银行</option>
-                            <option value=" 9" bankurl="http://bank.ecitic.com/"> 中信银行</option>
-                            <option value=" 13" bankurl="http://www.hxb.com.cn/"> 华夏银行</option>
-                            <option value=" 10" bankurl="http://www.spdb.com.cn"> 浦发银行</option>
-                            <option value=" 11" bankurl="http://www.cgbchina.com.cn"> 广发银行</option>
-                            <option value=" 14" bankurl="http://bank.pingan.com/"> 平安银行</option>
-                            <option value=" 5" bankurl="1"> 交通银行</option>
-                        </select>
-                    </li>
-                </ul>
-            </div>
             <div class="rech_cont rech_wechat" style="display:none;">
                 <!-- 微信充值 -->
                 <ul class="wechat-box">
+                    <li data-payid="1" data-payflag="3" data-needchk="1"><a class="fr" href="javascript:;"><img
+                                class="imgsel" style="display: block;" src="/assets/statics/images/cz_02.png"><img
+                                class="imgnotsel" style="display: none;" src="/assets/statics/images/cz_01.png"></a>
+                        <div class="rech-list-t">微信（自动跳转支付）￥：1-1000元
 
-                    <li class="rech-money">
-                        <div style="width: 100%;margin-bottom: 10px;">
-                            <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""    style="float:left;height:30px;line-height:30px;"/>
                         </div>
-                    </li>
-                    <li>
-                        <img src="http://www.gandianhuo.com/tpl/default/asset/img/3nQRcode_L.png">
-                    </li>
+                        <p></p>
+                        <p>￥：1-1000元，微信一键跳转支付，成功率高
+                        </p>
+                        <p></p><input type="radio" id="weixin1" name="typeid" value="1" style="display: none;"
+                                      checked="checked"/></li>
 
+                    <li data-payid="2" data-payflag="3" data-needchk="1">
+                        <a class="fr" href="javascript:;"><img class="imgsel" style="display: none;"
+                                                               src="/assets/statics/images/cz_02.png"><img
+                                class="imgnotsel" style="display: block;" src="/assets/statics/images/cz_01.png"></a>
+
+                        <div class="rech-list-t">（自动打开微信支付）￥：1-20000元</div>
+                        <p></p>
+                        <p>金额范围（￥：1-20000元）推荐使用，支付后立即到账</p>
+                        <p></p></li>
+                    <li data-payid="3" data-payflag="3" data-needchk="1">
+                        <a class="fr" href="javascript:;"><img class="imgsel" style="display: none;"
+                                                               src="/assets/statics/images/cz_02.png"><img
+                                class="imgnotsel" style="display: block;" src="/assets/statics/images/cz_01.png"></a>
+                        <div class="rech-list-t">（自动打开微信支付）￥：1-20000元</div>
+                        <p></p>
+                        <p>金额范围（￥：1-20000元）推荐使用，支付后立即到账</p>
+                        <p></p></li>
                 </ul>
             </div>
             <div class="rech_cont rech_alipay" style="display: none;">
                 <!-- 支付宝充值 -->
                 <ul class="wechat-box">
-                    <li class="rech-money">
-                        <div style="width: 100%;margin-bottom: 10px;">
-                            <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""    style="float:left;height:30px;line-height:30px;"/>
-                        </div>
-                    </li>
-                    <li>
-                        <img src="http://www.gandianhuo.com/tpl/default/asset/img/3nQRcode_L.png">
-                    </li>
+                    <li data-payid="11" data-payflag="1" data-needchk="1"><a class="fr" href="javascript:;"><img
+                                class="imgsel" style="display: block;" src="/assets/statics/images/cz_02.png"><img
+                                class="imgnotsel" style="display: none;" src="/assets/statics/images/cz_01.png"></a>
+                        <div class="rech-list-t">支付宝扫一扫（直接到帐）￥：10-20000元</div>
+                        <p></p>
+                        <p>￥：10-20000元，支持支付宝转银行，金额大，速度快</p>
+                        <p></p></li>
+                    <li data-payid="12" data-payflag="1" data-needchk="1"><a class="fr" href="javascript:;"><img
+                                class="imgsel" style="display: none;" src="/assets/statics/images/cz_02.png"><img
+                                class="imgnotsel" style="display: block;" src="/assets/statics/images/cz_01.png"></a>
+                        <div class="rech-list-t">支付宝扫一扫（直接到账）￥：1-50000元</div>
+                        <p></p>
+                        <p>如多次充值不成功，可使用支付宝转帐至公司银行卡</p>
+                        <p></p></li>
+                    <li data-payid="13" data-payflag="1" data-needchk="1"><a class="fr" href="javascript:;"><img
+                                class="imgsel" style="display: none;" src="/assets/statics/images/cz_02.png"><img
+                                class="imgnotsel" style="display: block;" src="/assets/statics/images/cz_01.png"></a>
+                        <div class="rech-list-t">支付宝扫一扫（直接到账）￥：1-50000元</div>
+                        <p></p>
+                        <p>如多次充值不成功，可使用支付宝转帐至公司银行卡</p>
+                        <p></p></li>
                 </ul>
             </div>
             <div class="rech_cont rech_qqpay" style="display:none;">
@@ -490,18 +491,13 @@
             ddbcharge(4, money);
             return;
         }
-        var mBankId = $('.bank option:selected').val();
+
         var form = $("<form></form>");
         form.attr('action', '/index.php/cash/inRecharge');
         form.attr('method', 'post');
         form.attr('target', '_self');
         var input1 = $("<input type='hidden' name='mBankId' />");
-        input1.attr('value', mBankId);
-        var username = $('#username').val();
-        var input6 = $("<input type='hidden' name='username' />");
-        input6.attr('value', username);
-        var input3 = $("<input type='hidden' name='flag' />");
-        input3.attr('value', 0);
+        input1.attr('value', banktype);
         var input2 = $("<input type='hidden' name='amount' />");
         input2.attr('value', money);
 
@@ -521,11 +517,6 @@
         input1.attr('value', banktype);
         var input2 = $("<input type='hidden' name='amount' />");
         input2.attr('value', money);
-        var input4 = $("<input type='hidden' name='flag' />");
-        input4.attr('value', banktype);
-        var username = $('#username').val();
-        var input6 = $("<input type='hidden' name='username' />");
-        input6.attr('value', username);
         var input3 = $("<input type='hidden' name='uid' />");
         input3.attr('value', <?php echo $this->user['uid'];?>);
         form.append(input1);
@@ -544,11 +535,6 @@
         input1.attr('value', banktype);
         var input2 = $("<input type='hidden' name='amount' />");
         input2.attr('value', money);
-        var input4 = $("<input type='hidden' name='flag' />");
-        input4.attr('value', banktype);
-        var username = $('#username').val();
-        var input6 = $("<input type='hidden' name='username' />");
-        input6.attr('value', username);
         var input3 = $("<input type='hidden' name='uid' />");
         input3.attr('value', <?php echo $this->user['uid'];?>);
         form.append(input1);

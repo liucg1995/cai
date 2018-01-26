@@ -305,7 +305,7 @@ class Cash extends WebLoginBase{
 			$para['actionIP']=$this->ip(true);
 			$para['info']='用户充值';
 			$para['bankId']=$id;
-			
+
 			if($this->insertRow($this->prename .'member_recharge', $para)){
 				//$this->display('cash/recharge-copy.php',0,$para);
 		$data = array();

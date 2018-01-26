@@ -658,7 +658,6 @@ window.init_event = {
     //支付宝 支付第一步
     baoDeposit_1:function()
     {
-        alert(11);
         var div_id = "baoDeposit_1_div";
         if(  $("#"+div_id).data("initevent") == "true" )
         {//已经绑定过的事件无需重复绑定
@@ -675,7 +674,6 @@ window.init_event = {
             });
             //下一步
             $("#"+div_id+" [name=next_btn]").bind("click",function(){
-                alert(11);
                 var arrIndex = parseInt($(this).data("index"));
                 var block_name = "block_"+arrIndex;
                 var partSlt = "#"+div_id+" ";

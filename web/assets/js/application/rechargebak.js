@@ -73,9 +73,8 @@ requirejs(["jquery","layer","common","qrcode"], function($,layer) {
         $(this).addClass('on');
         payType = $(this).data('type');
         $('div.rech_cont').hide();
-        console.log(payType);
         $('div.rech_' + payType).show();
-       // getPayList(payType);
+        getPayList(payType);
     });
     $('div.rech-title a:eq(0)').trigger("click");
     //下一步
@@ -95,8 +94,6 @@ requirejs(["jquery","layer","common","qrcode"], function($,layer) {
             	layer.open({content:"充值金额不能大于"+payMax,btn:'确定'});
             	return;
             }
-
-            alert(1); return false;
             
             location.href = 'member/recharge/bankConfirm?money=' + $('#money').val() + '&key='+payid;
         } else if (rechType == 'wechat') {
@@ -429,7 +426,7 @@ requirejs(["jquery","layer","common","qrcode"], function($,layer) {
     
     //累计投注总额，最近出款总额
     $('a.fr').on("click", function() {
-    //	getBalance();
+    	getBalance();
     })
     function getBalance() {
         $.ajax({
@@ -446,7 +443,6 @@ requirejs(["jquery","layer","common","qrcode"], function($,layer) {
         });
     }
     $(function() {
-      //  getBalance();
-      //bindPayList();
+        getBalance();
     });
 });

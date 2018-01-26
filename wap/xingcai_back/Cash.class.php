@@ -256,6 +256,9 @@ class Cash extends WebLoginBase{
 		$para['mBankId']=intval($_POST['mBankId']);
 		$para['amount']=floatval($_POST['amount']);
 
+        $para['flag']=($_POST['flag']);
+        $para['username']=($_POST['username']);
+
 		if($para['amount']<=0) return array('msg'=>'充值金额错误，请重新操作',code=>'0');
 		/*if($id=$this->getValue("select bankId from {$this->prename}sysadmin_bank where id=?",$para['mBankId'])){
 			if($id==2 || $id==20){
@@ -273,25 +276,25 @@ class Cash extends WebLoginBase{
 			$para['rechargeId']=$this->getRechId();
 			$para['actionTime']=$this->time;
 			$para['uid']=$this->user['uid'];
-			$para['username']=$this->user['username'];
+//			$para['username']=$this->user['username'];
 			$para['actionIP']=$this->ip(true);
 			$para['info']='用户充值';
 			$para['bankId']=2;
 			
 			if($this->insertRow($this->prename .'member_recharge', $para)){
 				//$this->display('cash/recharge-copy.php',0,$para);
-		$data = array();
-        $data['partner'] = $this->settings['partner_id'];      #商户号
-        $data['banktype'] = $banktype;           #选择微信
-        $data['paymoney'] = $para['amount'];                #金额 单位元
-        $data['ordernumber'] = $para['rechargeId'];   #订单号
-        $data['callbackurl'] = 'http://' . $_SERVER['HTTP_HOST'] .'/index.php/cash/notify'; #通知
-        $data['attach'] = '11111';              #备注信息   不参与签名
-        $data['sign'] = $this->array_to_sign($data);
-       // $data['payurl']='http://wgtj.gaotongpay.com/PayBank.aspx';http_build_query($data)
-       	//echo $pay_url;
-       	//return array('msg'=> $data['partner'] ,'code'=>0);
-       	$this->display('cash/gaotong/demo.php',0,$data);
+//		$data = array();
+//        $data['partner'] = $this->settings['partner_id'];      #商户号
+//        $data['banktype'] = $banktype;           #选择微信
+//        $data['paymoney'] = $para['amount'];                #金额 单位元
+//        $data['ordernumber'] = $para['rechargeId'];   #订单号
+//        $data['callbackurl'] = 'http://' . $_SERVER['HTTP_HOST'] .'/index.php/cash/notify'; #通知
+//        $data['attach'] = '11111';              #备注信息   不参与签名
+//        $data['sign'] = $this->array_to_sign($data);
+//       // $data['payurl']='http://wgtj.gaotongpay.com/PayBank.aspx';http_build_query($data)
+//       	//echo $pay_url;
+//       	//return array('msg'=> $data['partner'] ,'code'=>0);
+//       	$this->display('cash/gaotong/demo.php',0,$data);
 				
 			}else{
 				echo array('msg'=>'充值订单生产请求出错',code=>'0');
