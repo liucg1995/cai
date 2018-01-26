@@ -38,7 +38,7 @@ requirejs(["jquery", "common"], function($) {
                     timeout: 30000,
                     success: function(data) {
                         if(data.errcode=='200'){
-                            $("#status_type").hide();
+                            $(".sign_div").hide();
                             alert(data.msg);
                         }else if(data.errcode=='203'){
                             alert(data.msg);

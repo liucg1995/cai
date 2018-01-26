@@ -17,6 +17,7 @@ class Cash extends WebLoginBase{
 	}
 	
 	public final function recharge(){
+
 		$this->display('cash/recharge.php');
 	}
 
@@ -252,14 +253,19 @@ class Cash extends WebLoginBase{
 	/* 进入充值，生产充值订单 */
 	public final function inRecharge(){
 
-		if(!$_POST) return array('msg'=>'参数出错',code=>'0');
+		if(!$_POST){
+            echo json_encode(array("errcode"=>"200","msg"=>'参数有误'));die;
+        }
 		$para['mBankId']=intval($_POST['mBankId']);
 		$para['amount']=floatval($_POST['amount']);
 
-        $para['flag']=($_POST['flag']);
         $para['username']=($_POST['username']);
 
-		if($para['amount']<=0) return array('msg'=>'充值金额错误，请重新操作',code=>'0');
+
+		if($para['amount']<=0)
+        {
+            echo json_encode(array("errcode"=>"200","msg"=>'充值金额错误，请重新操作'));die;
+        }
 		/*if($id=$this->getValue("select bankId from {$this->prename}sysadmin_bank where id=?",$para['mBankId'])){
 			if($id==2 || $id==20){
 				if($para['amount']<$this->settings['rechargeMin1'] || $para['amount']>$this->settings['rechargeMax1']) throw new Exception('支付宝/微信充值最低'.$this->settings['rechargeMin1'].'元，最高'.$this->settings['rechargeMax1'].'元');
@@ -280,25 +286,27 @@ class Cash extends WebLoginBase{
 			$para['actionIP']=$this->ip(true);
 			$para['info']='用户充值';
 			$para['bankId']=2;
-			
-			if($this->insertRow($this->prename .'member_recharge', $para)){
-				//$this->display('cash/recharge-copy.php',0,$para);
+
+        if($this->insertRow($this->prename .'member_recharge', $para)){
+
+            echo json_encode(array("errcode"=>"200","msg"=>'支付成功'));die;
+            //$this->display('cash/recharge-copy.php',0,$para);
 //		$data = array();
-//        $data['partner'] = $this->settings['partner_id'];      #商户号
-//        $data['banktype'] = $banktype;           #选择微信
-//        $data['paymoney'] = $para['amount'];                #金额 单位元
-//        $data['ordernumber'] = $para['rechargeId'];   #订单号
-//        $data['callbackurl'] = 'http://' . $_SERVER['HTTP_HOST'] .'/index.php/cash/notify'; #通知
-//        $data['attach'] = '11111';              #备注信息   不参与签名
-//        $data['sign'] = $this->array_to_sign($data);
+//		$data['key']=$this->settings['xinma_key'];
+//        $data['branch_id'] = $this->settings['xinma_id'];      #商户号
+//        $data['pay_type'] = $banktype;           #选择微信
+//        $data['total_fee'] = $para['amount'];                #金额 单位元
+//        $data['out_trade_no'] = $para['rechargeId'];   #订单号
+//        $data['back_notify_url'] = 'https://'. $_SERVER['HTTP_HOST'] .'/index.php/cash/notifyxm'; #通知//
+//        $data['product_name'] = '11111';              #备注信息   不参与签名
 //       // $data['payurl']='http://wgtj.gaotongpay.com/PayBank.aspx';http_build_query($data)
-//       	//echo $pay_url;
-//       	//return array('msg'=> $data['partner'] ,'code'=>0);
-//       	$this->display('cash/gaotong/demo.php',0,$data);
-				
-			}else{
-				echo array('msg'=>'充值订单生产请求出错',code=>'0');
-			}
+//      	$this->display('cash/xinma/qrcodePayAction.php',0,$data);
+
+            //$this->display('cash/xinma/qrcodePayAction.php',0,$data);
+
+        }else{
+            echo json_encode(array("errcode"=>"201","msg"=>'支付失败'));die;
+        }
 		
 		//清空验证码session
 	
@@ -372,15 +380,20 @@ class Cash extends WebLoginBase{
 	}
 		/* 进入多得宝充值 */
 	public final function xmRecharge(){
-		if(!$_POST) throw new Exception('参数出错');
+		if(!$_POST){
+            echo json_encode(array("errcode"=>"201","msg"=>'信息有误'));die;
+        }
 		$uid=intval($_POST['uid']);
 		$para['mBankId']=intval($_POST['mBankId']);
 		$para['amount']=floatval($_POST['amount']);
-		
+		$para['flag']=($_POST['flag']);
+
+//        var_dump($para);die;
+
 		$username=$this->getValue("select username from {$this->prename}members where uid=$uid");
 		if($username==''||$uid<=0)
 		{
-			throw new Exception('用户错误');
+            echo json_encode(array("errcode"=>"201","msg"=>'无此用户'));die;
 		}
 		if($para['amount']<=0) throw new Exception('充值金额错误，请重新操作');
 		$id=$para['mBankId'];
@@ -407,22 +420,24 @@ class Cash extends WebLoginBase{
 			$para['info']='用户充值';
 			$para['bankId']=$id;
 			if($this->insertRow($this->prename .'member_recharge', $para)){
+
+			    echo json_encode(array("errcode"=>"200","msg"=>'支付成功'));die;
 				//$this->display('cash/recharge-copy.php',0,$para);
-		$data = array();
-		$data['key']=$this->settings['xinma_key'];		
-        $data['branch_id'] = $this->settings['xinma_id'];      #商户号
-        $data['pay_type'] = $banktype;           #选择微信
-        $data['total_fee'] = $para['amount'];                #金额 单位元
-        $data['out_trade_no'] = $para['rechargeId'];   #订单号
-        $data['back_notify_url'] = 'https://'. $_SERVER['HTTP_HOST'] .'/index.php/cash/notifyxm'; #通知//
-        $data['product_name'] = '11111';              #备注信息   不参与签名
-       // $data['payurl']='http://wgtj.gaotongpay.com/PayBank.aspx';http_build_query($data)
-      	$this->display('cash/xinma/qrcodePayAction.php',0,$data);
+//		$data = array();
+//		$data['key']=$this->settings['xinma_key'];
+//        $data['branch_id'] = $this->settings['xinma_id'];      #商户号
+//        $data['pay_type'] = $banktype;           #选择微信
+//        $data['total_fee'] = $para['amount'];                #金额 单位元
+//        $data['out_trade_no'] = $para['rechargeId'];   #订单号
+//        $data['back_notify_url'] = 'https://'. $_SERVER['HTTP_HOST'] .'/index.php/cash/notifyxm'; #通知//
+//        $data['product_name'] = '11111';              #备注信息   不参与签名
+//       // $data['payurl']='http://wgtj.gaotongpay.com/PayBank.aspx';http_build_query($data)
+//      	$this->display('cash/xinma/qrcodePayAction.php',0,$data);
 	  
        	//$this->display('cash/xinma/qrcodePayAction.php',0,$data);
 				
 			}else{
-				throw new Exception('充值订单生产请求出错');
+                echo json_encode(array("errcode"=>"201","msg"=>'支付失败'));die;
 			}
 		
 	}	

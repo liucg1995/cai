@@ -107,7 +107,11 @@
         outline: none;
     }
 </style>
-
+<?php
+// 查询支付方式
+$sql = "select * from {$this->prename}code order by id asc";
+$data = $this->getRows($sql);
+?>
 <body class="login-bg">
 <div class="header">
     <div class="headerTop">
@@ -147,12 +151,12 @@
         <div class="rech-tit">选择充值方式</div>
         <div class="rech-box">
             <div class="rech-title">
-                <label for="bank"><a data-type="bank" style="width: 20%;">银行转账</a></label>
+                <label for="bank"><a data-type="bank" style="width: 33%;">银行转账</a></label>
                 <input type="radio" id="bank" name="recharge_type" value="bank" checked="checked"
                        style="display: none;"/>
-                <label for="WEIXINWAP"><a data-type="wechat" style="width: 20%;">微信</a></label>
+                <label for="WEIXINWAP"><a data-type="wechat" style="width: 33%;">微信</a></label>
                 <input type="radio" id="WEIXINWAP" name="recharge_type" value="WEIXIN" style="display: none;"/>
-                <label for="ALIPAYWAP"> <a data-type="alipay" style="width: 20%;">支付宝</a></label>
+                <label for="ALIPAYWAP"> <a data-type="alipay" style="width: 34%;">支付宝</a></label>
                 <input type="radio" id="ALIPAYWAP" name="recharge_type" value="ALIPAYWAP" style="display: none;"/>
                 <!--	                <label for="QQPAYWAP"><a f  data-type="qqpay" style="width: 20%">QQ钱包</a></label>-->
                 <!--	                <input type="radio" id="QQPAYWAP" name="recharge_type" value="QQPAY" style="display: none;"/>-->
@@ -166,25 +170,33 @@
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
                             <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""    style="float:left;height:30px;line-height:30px;"/>
+                            <input type="text" placeholder="请输入存款姓名" id="username" value=""
+                                   style="float:left;height:30px;line-height:30px;"/>
+                        </div>
+                    </li>
+                    <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span class="fl">银行列表：</span>
+                            <select class="bank" style="float:left;height:30px;line-height:30px;">
+                                <option>请选择银行</option>
+                                <option value=" 3" bankurl="http://www.abchina.com"> 中国农业银行</option>
+                                <option value=" 6" bankurl="http://www.ccb.com/"> 中国建设银行</option>
+                                <option value=" 1" bankurl="http://www.icbc.com.cn"> 中国工商银行</option>
+                                <option value=" 7" bankurl="http://www.cmbchina.com/"> 招商银行</option>
+                                <option value=" 8" bankurl="http://www.boc.cn/"> 中国银行</option>
+                                <option value=" 15" bankurl="http://www.cmbc.com.cn/"> 中国民生银行</option>
+                                <option value=" 9" bankurl="http://bank.ecitic.com/"> 中信银行</option>
+                                <option value=" 13" bankurl="http://www.hxb.com.cn/"> 华夏银行</option>
+                                <option value=" 10" bankurl="http://www.spdb.com.cn"> 浦发银行</option>
+                                <option value=" 11" bankurl="http://www.cgbchina.com.cn"> 广发银行</option>
+                                <option value=" 14" bankurl="http://bank.pingan.com/"> 平安银行</option>
+                                <option value=" 5" bankurl="1"> 交通银行</option>
+                            </select>
                         </div>
                     </li>
                     <li>
-                        <select class="bank">
-                            <option>请选择银行</option>
-                            <option value=" 3" bankurl="http://www.abchina.com"> 中国农业银行</option>
-                            <option value=" 6" bankurl="http://www.ccb.com/"> 中国建设银行</option>
-                            <option value=" 1" bankurl="http://www.icbc.com.cn"> 中国工商银行</option>
-                            <option value=" 7" bankurl="http://www.cmbchina.com/"> 招商银行</option>
-                            <option value=" 8" bankurl="http://www.boc.cn/"> 中国银行</option>
-                            <option value=" 15" bankurl="http://www.cmbc.com.cn/"> 中国民生银行</option>
-                            <option value=" 9" bankurl="http://bank.ecitic.com/"> 中信银行</option>
-                            <option value=" 13" bankurl="http://www.hxb.com.cn/"> 华夏银行</option>
-                            <option value=" 10" bankurl="http://www.spdb.com.cn"> 浦发银行</option>
-                            <option value=" 11" bankurl="http://www.cgbchina.com.cn"> 广发银行</option>
-                            <option value=" 14" bankurl="http://bank.pingan.com/"> 平安银行</option>
-                            <option value=" 5" bankurl="1"> 交通银行</option>
-                        </select>
+                        <label></label>
+
                     </li>
                 </ul>
             </div>
@@ -195,11 +207,12 @@
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
                             <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""    style="float:left;height:30px;line-height:30px;"/>
+                            <input type="text" placeholder="请输入存款姓名" id="username" value=""
+                                   style="float:left;height:30px;line-height:30px;"/>
                         </div>
                     </li>
                     <li>
-                        <img src="http://www.gandianhuo.com/tpl/default/asset/img/3nQRcode_L.png">
+                        <img src="<?php echo $data[0]["imgaddr"] ?>">
                     </li>
 
                 </ul>
@@ -210,11 +223,12 @@
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
                             <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""    style="float:left;height:30px;line-height:30px;"/>
+                            <input type="text" placeholder="请输入存款姓名" id="username" value=""
+                                   style="float:left;height:30px;line-height:30px;"/>
                         </div>
                     </li>
                     <li>
-                        <img src="http://www.gandianhuo.com/tpl/default/asset/img/3nQRcode_L.png">
+                        <img src="<?php echo $data[1]["imgaddr"] ?>">
                     </li>
                 </ul>
             </div>
@@ -327,7 +341,7 @@
         </div>
 
         <!--<button id="charge-btn" class="charge-btn" onclick="incharge()">下一步</button>-->
-        <button id="charge-btn" class="mycss" onclick="incharge()">下一步</button>
+        <button id="charge-btn" class="mycss" onclick="incharge()">提交</button>
         <div class="charge">
             <div class="charge-tips">
             </div>
@@ -478,10 +492,10 @@
          return;
          }else */
         if (banktype == 'WEIXIN') {
-            xmcharge(2, money);
+            xmcharge(21, money);
             return;
         } else if (banktype == 'ALIPAYWAP') {
-            xmcharge(1, money);
+            xmcharge(22, money);
             return;
         } else if (banktype == 'QQPAY') {
             xmcharge(3, money);
@@ -491,25 +505,54 @@
             return;
         }
         var mBankId = $('.bank option:selected').val();
-        var form = $("<form></form>");
-        form.attr('action', '/index.php/cash/inRecharge');
-        form.attr('method', 'post');
-        form.attr('target', '_self');
-        var input1 = $("<input type='hidden' name='mBankId' />");
-        input1.attr('value', mBankId);
+//        var form = $("<form></form>");
+//        form.attr('action', '/index.php/cash/inRecharge');
+//        form.attr('method', 'post');
+//        form.attr('target', '_self');
+//        var input1 = $("<input type='hidden' name='mBankId' />");
+//        input1.attr('value', mBankId);
         var username = $('#username').val();
-        var input6 = $("<input type='hidden' name='username' />");
-        input6.attr('value', username);
-        var input3 = $("<input type='hidden' name='flag' />");
-        input3.attr('value', 0);
-        var input2 = $("<input type='hidden' name='amount' />");
-        input2.attr('value', money);
+//        var input6 = $("<input type='hidden' name='username' />");
+//        input6.attr('value', username);
+//        var input3 = $("<input type='hidden' name='flag' />");
+//        input3.attr('value', 0);
+//        var input2 = $("<input type='hidden' name='amount' />");
+//        input2.attr('value', money);
 
-        form.append(input1);
-        form.append(input2);
-        form.appendTo("body");
-        form.css('display', 'none');
-        form.submit();
+//        form.append(input1);
+//        form.append(input2);
+//        form.append(input3);
+//        form.append(input6);
+//        form.appendTo("body");
+//        form.css('display', 'none');
+//        form.submit();
+
+        $.ajax({
+            url: '/index.php/cash/inRecharge',
+            async: false,
+            type: "post",
+            data: {
+                mBankId: mBankId,
+                amount: money,
+                flag: 0,
+                username: username,
+                uid:<?php echo $this->user['uid'];?>,
+            },
+            dataType: "json",
+            error: function () {
+
+            },
+            success: function (data) {
+
+                if(data.errcode==200){
+                    alert(data.msg);
+                    history.go(0);
+                }else{
+                    alert(data.msg);
+                }
+
+            }
+        });
 
     }
     function ddbcharge(banktype, money) {
@@ -522,41 +565,85 @@
         var input2 = $("<input type='hidden' name='amount' />");
         input2.attr('value', money);
         var input4 = $("<input type='hidden' name='flag' />");
-        input4.attr('value', banktype);
+        if (banktype == 21) {
+            input4.attr('value', 1);
+        } else {
+            input4.attr('value', 2);
+        }
+
         var username = $('#username').val();
-        var input6 = $("<input type='hidden' name='username' />");
-        input6.attr('value', username);
-        var input3 = $("<input type='hidden' name='uid' />");
-        input3.attr('value', <?php echo $this->user['uid'];?>);
-        form.append(input1);
-        form.append(input2);
-        form.append(input3);
-        form.appendTo("body");
-        form.css('display', 'none');
-        form.submit();
+//        var input6 = $("<input type='hidden' name='username' />");
+//        input6.attr('value', username);
+//        var input3 = $("<input type='hidden' name='uid' />");
+//        input3.attr('value', <?php //echo $this->user['uid'];?>//);
+//        form.append(input1);
+//        form.append(input2);
+//        form.append(input3);
+//        form.append(input4);
+//        form.append(input6);
+//        form.appendTo("body");
+//        form.css('display', 'none');
+//        form.submit();
+
+
     }
     function xmcharge(banktype, money) {
-        var form = $("<form></form>");
-        form.attr('action', '/index.php/cash/xmRecharge');
-        form.attr('method', 'post');
-        form.attr('target', '_self');
-        var input1 = $("<input type='hidden' name='mBankId' />");
-        input1.attr('value', banktype);
-        var input2 = $("<input type='hidden' name='amount' />");
-        input2.attr('value', money);
-        var input4 = $("<input type='hidden' name='flag' />");
-        input4.attr('value', banktype);
+//        var form = $("<form></form>");
+//        form.attr('action', '/index.php/cash/xmRecharge');
+//        form.attr('method', 'post');
+//        form.attr('target', '_self');
+//        var input1 = $("<input type='hidden' name='mBankId' />");
+//        input1.attr('value', banktype);
+//        var input2 = $("<input type='hidden' name='amount' />");
+//        input2.attr('value', money);
+//        var input4 = $("<input type='hidden' name='flag' />");
+        if (banktype == 21) {
+            var flag = 1;
+        } else {
+            var flag = 2;
+        }
         var username = $('#username').val();
-        var input6 = $("<input type='hidden' name='username' />");
-        input6.attr('value', username);
-        var input3 = $("<input type='hidden' name='uid' />");
-        input3.attr('value', <?php echo $this->user['uid'];?>);
-        form.append(input1);
-        form.append(input2);
-        form.append(input3);
-        form.appendTo("body");
-        form.css('display', 'none');
-        form.submit();
+//        var input6 = $("<input type='hidden' name='username' />");
+//        input6.attr('value', username);
+
+        $.ajax({
+            url: '/index.php/cash/xmRecharge',
+            async: false,
+            type: "post",
+            data: {
+                mBankId: banktype,
+                amount: money,
+                flag: flag,
+                username: username,
+                uid:<?php echo $this->user['uid'];?>,
+            },
+            dataType: "json",
+            error: function () {
+
+            },
+            success: function (data) {
+                if(data.errcode==200){
+                    alert(data.msg);
+                    history.go(0);
+                }else{
+                    alert(data.msg);
+                }
+
+
+            }
+        });
+
+//
+//        var input3 = $("<input type='hidden' name='uid' />");
+//        input3.attr('value', <?php //echo $this->user['uid'];?>//);
+//        form.append(input1);
+//        form.append(input2);
+//        form.append(input3);
+//        form.append(input4);
+//        form.append(input6);
+//        form.appendTo("body");
+//        form.css('display', 'none');
+//        form.submit();
     }
 </script>
 </body>

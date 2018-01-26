@@ -19,6 +19,7 @@ require 'blast_back/admin/AdminBase.class.php';
 require 'admin.config.php';
 define("APP_DIR", dirname(__FILE__) . DIRECTORY_SEPARATOR);
 define("WEB_DIR", dirname(dirname(__FILE__))."/web/" . DIRECTORY_SEPARATOR);
+define("WAP_DIR", dirname(dirname(__FILE__))."/wap/" . DIRECTORY_SEPARATOR);
 
 //print_r($_SERVER);exit;
 $para=array();

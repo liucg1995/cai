@@ -29,11 +29,12 @@ class Upload extends AdminBase
         @set_time_limit(5 * 60);
 
         $dir = APP_DIR . '/upload/uploads/'; //获取网站项目的绝对路径
-        $copy_dir = WEB_DIR . '/upload/uploads/';
+
         $month = date("Ymd", time());
         $targetDir = $dir . '/' . 'upload_tmp';
         $uploadDir = $dir . '/files/' . $month;
-        $copy_uploadDir = $copy_dir . '/files/' . $month;
+//        $copy_uploadDir = $copy_dir . '/files/' . $month;
+        $copy_uploadDir = array(WEB_DIR . '/upload/uploads/' . '/files/' . $month,WAP_DIR . '/upload/uploads/' . '/files/' . $month);
 
         $cleanupTargetDir = true; // Remove old files
         $maxFileAge = 5 * 3600; // Temp file age in seconds
@@ -141,11 +142,13 @@ class Upload extends AdminBase
             return false;
         }
 
-        if (!file_exists($dir)) {
-            @mkdir($dir);
+        foreach ($dir as $v){
+            if (!file_exists($v)) {
+                @mkdir($v);
+            }
+            copy($sourcefile, $v . '/' . $filename);
         }
-        //$filename = basename($sourcefile);
-        return copy($sourcefile, $dir . '/' . $filename);
+
     }
 
 }

@@ -47,7 +47,7 @@
         if(!$row["count"] && empty($_COOKIE["cookie_sign"])){
 
         ?>
-        <h1 class="ui-betting-title">
+        <h1 class="ui-betting-title sign_div">
             <div class="bett-top-box">
                 <div class="bett-tit"><span id="status_type">签到</span></div>
             </div>
