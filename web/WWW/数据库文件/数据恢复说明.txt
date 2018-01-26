@@ -1,0 +1,12 @@
+数据恢复说明：
+
+caisb文件夹和caisb.sql数据是一样的；
+
+caisb文件夹内数据适合服务器操作，直接将caisb文件夹数据复制到你的Mysql-data数据库即可；
+
+caisb.sql 文件请采用phpMyAdmin进行导入；
+
+caisb.psc 数据还原教程：http://www.jb51.net/article/96904.htm
+
+三种方法根据自己情况选择！
+
