@@ -149,24 +149,27 @@ $data=$this->getRows($sql);
                             <div class="pay-select">
                                 <select>
                                     <option>请选择银行</option>
-                                    <option value=" 中国农业银行" bankurl="http://www.abchina.com"> 中国农业银行</option>
-                                    <option value=" 中国建设银行" bankurl="http://www.ccb.com/"> 中国建设银行</option>
-                                    <option value=" 中国工商银行" bankurl="http://www.icbc.com.cn"> 中国工商银行</option>
-                                    <option value=" 招商银行" bankurl="http://www.cmbchina.com/"> 招商银行</option>
-                                    <option value=" 中国银行" bankurl="http://www.boc.cn/"> 中国银行</option>
-                                    <option value=" 中国邮政储蓄" bankurl="http://www.psbc.com/"> 中国邮政储蓄</option>
-                                    <option value=" 中国民生银行" bankurl="http://www.cmbc.com.cn/"> 中国民生银行</option>
-                                    <option value=" 中信银行" bankurl="http://bank.ecitic.com/"> 中信银行</option>
-                                    <option value=" 中国光大银行" bankurl="http://www.cebbank.com/"> 中国光大银行</option>
-                                    <option value=" 兴业银行" bankurl="http://www.cib.com.cn"> 兴业银行</option>
-                                    <option value=" 华夏银行" bankurl="http://www.hxb.com.cn/"> 华夏银行</option>
-                                    <option value=" 北京银行" bankurl="http://www.bankofbeijing.com.c"> 北京银行</option>
-                                    <option value=" 浦发银行" bankurl="http://www.spdb.com.cn"> 浦发银行</option>
-                                    <option value=" 广发银行" bankurl="http://www.cgbchina.com.cn"> 广发银行</option>
-                                    <option value=" 平安银行" bankurl="http://bank.pingan.com/"> 平安银行</option>
-                                    <option value=" 交通银行" bankurl="1"> 交通银行</option>
+                                    <option value=" 4" bankurl="http://www.abchina.com"> 中国农业银行</option>
+                                    <option value=" 6" bankurl="http://www.ccb.com/"> 中国建设银行</option>
+                                    <option value=" 1" bankurl="http://www.icbc.com.cn"> 中国工商银行</option>
+                                    <option value=" 7" bankurl="http://www.cmbchina.com/"> 招商银行</option>
+                                    <option value=" 8" bankurl="http://www.boc.cn/"> 中国银行</option>
+                                    <option value=" 15" bankurl="http://www.cmbc.com.cn/"> 中国民生银行</option>
+                                    <option value=" 9" bankurl="http://bank.ecitic.com/"> 中信银行</option>
+                                    <option value=" 13" bankurl="http://www.hxb.com.cn/"> 华夏银行</option>
+                                    <option value=" 10" bankurl="http://www.spdb.com.cn"> 浦发银行</option>
+                                    <option value=" 11" bankurl="http://www.cgbchina.com.cn"> 广发银行</option>
+                                    <option value=" 14" bankurl="http://bank.pingan.com/"> 平安银行</option>
+                                    <option value=" 5" bankurl="1"> 交通银行</option>
                                 </select>
                                 <input type="text" class="pay-int" style="display:none;" placeholder="其他银行请输入" maxlength="12">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <label>付款账户 ：</label>
+                            <div>
+                                <input name="account" class="pay-int" type="text" maxlength="20">
+                                <div class="f12 c-gray ml-10"><span class="c-red">*</span></div>
                             </div>
                         </div>
                         <div class="row">

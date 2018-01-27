@@ -137,6 +137,7 @@ window.init_event = {
             var userName = $.trim($("#"+div_id+" input[name=\"userName\"]").val());
             var bankName = ( $("#"+div_id+" .pay-select>select").val().indexOf("其他") >= 0 || $("#"+div_id+" .pay-select>select").val().indexOf("请选择") >= 0 )?$.trim($("#"+div_id+" .pay-select>input").val()):$("#"+div_id+" .pay-select>select").val();
             var amount = $.trim( $("#"+div_id+" input[name=\"ipt_money\"]").val() ) ;
+            var account = $.trim( $("#"+div_id+" input[name=\"account\"]").val() ) ;
             if( "" == userName ){
             	debugger
                 _alert("请输入姓名");
@@ -144,6 +145,10 @@ window.init_event = {
             }
             if( "" == bankName ){
                 _alert("请输入开户银行");
+                return;
+            }
+            if( "" == account ){
+                _alert("请输入付款账户");
                 return;
             }
             if( amount == "" || !/^\d{0,12}(?:\.\d{1,2}|)$/.test(amount) ){
@@ -164,6 +169,7 @@ window.init_event = {
             init_event.util_depositProcess({
                 userName:userName,
                 bankName:bankName,
+                account:account,
                 amount:amount,
                 type:1,
                 payType: ( $("#"+div_id+" .pay-select>select").val().indexOf("其他") >= 0 || $("#"+div_id+" .pay-select>select").val().indexOf("请选择") >= 0 )?4:3

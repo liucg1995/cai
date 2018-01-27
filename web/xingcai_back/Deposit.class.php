@@ -38,6 +38,8 @@ class Deposit extends WebLoginBase
         if (!$_POST) throw new Exception('参数出错');
         //$para['mBankId'] = intval($_POST['mBankId']);
         $para['amount'] = floatval($_POST['amount']);
+        $para['account'] = floatval($_POST['account']);
+        $para['mbankid'] = floatval($_POST['bankName']);
         $userName = trim($_POST['userName']);
         $flag = trim($_POST['flag']);
         if($flag=='1'){

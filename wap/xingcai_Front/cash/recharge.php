@@ -179,7 +179,7 @@ $data = $this->getRows($sql);
                             <span class="fl">银行列表：</span>
                             <select class="bank" style="float:left;height:30px;line-height:30px;">
                                 <option>请选择银行</option>
-                                <option value=" 3" bankurl="http://www.abchina.com"> 中国农业银行</option>
+                                <option value=" 4" bankurl="http://www.abchina.com"> 中国农业银行</option>
                                 <option value=" 6" bankurl="http://www.ccb.com/"> 中国建设银行</option>
                                 <option value=" 1" bankurl="http://www.icbc.com.cn"> 中国工商银行</option>
                                 <option value=" 7" bankurl="http://www.cmbchina.com/"> 招商银行</option>
