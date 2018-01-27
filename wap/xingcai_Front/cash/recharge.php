@@ -211,8 +211,25 @@ $data = $this->getRows($sql);
                                    style="float:left;height:30px;line-height:30px;"/>
                         </div>
                     </li>
+                    <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span class="fl">收款姓名：</span>
+                            <span    style="float:left;height:30px;line-height:30px;"><?php echo $data[0]["title"] ?></span>
+                        </div>
+                    </li>
+                    <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span class="fl">收款账户：</span>
+                            <span    style="float:left;height:30px;line-height:30px;"><?php echo $data[0]["account"] ?></span>
+                        </div>
+                    </li>
                     <li>
-                        <img src="<?php echo $data[0]["imgaddr"] ?>">
+                        <img src="<?php echo $data[0]["imgaddr"] ?>" width="200px">
+                    </li>
+                    <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span    style="float:left;height:30px;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
+                        </div>
                     </li>
 
                 </ul>
@@ -227,8 +244,25 @@ $data = $this->getRows($sql);
                                    style="float:left;height:30px;line-height:30px;"/>
                         </div>
                     </li>
+                  <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span class="fl">收款姓名：</span>
+                            <span    style="float:left;height:30px;line-height:30px;"><?php echo $data[1]["title"] ?></span>
+                        </div>
+                    </li>
+                    <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span class="fl">收款账户：</span>
+                            <span    style="float:left;height:30px;line-height:30px;"><?php echo $data[1]["account"] ?></span>
+                        </div>
+                    </li>
                     <li>
-                        <img src="<?php echo $data[1]["imgaddr"] ?>">
+                        <img src="<?php echo $data[1]["imgaddr"] ?>" width="200px">
+                    </li>
+                    <li class="rech-money">
+                        <div style="width: 100%;margin-bottom: 10px;">
+                            <span    style="float:left;height:30px;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
+                        </div>
                     </li>
                 </ul>
             </div>
