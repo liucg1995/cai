@@ -206,8 +206,8 @@ $data = $this->getRows($sql);
 
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
-                            <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""
+                            <span class="fl">微信昵称：</span>
+                            <input type="text" placeholder="请输入微信昵称" id="username" value=""
                                    style="float:left;height:30px;line-height:30px;"/>
                         </div>
                     </li>
@@ -228,7 +228,7 @@ $data = $this->getRows($sql);
                     </li>
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
-                            <span    style="float:left;height:30px;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
+                            <span    style="float:left;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
                         </div>
                     </li>
 
@@ -239,8 +239,8 @@ $data = $this->getRows($sql);
                 <ul class="wechat-box">
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
-                            <span class="fl">存款姓名：</span>
-                            <input type="text" placeholder="请输入存款姓名" id="username" value=""
+                            <span class="fl">支付宝账户：</span>
+                            <input type="text" placeholder="请输入支付宝账户" id="username" value=""
                                    style="float:left;height:30px;line-height:30px;"/>
                         </div>
                     </li>
@@ -261,7 +261,7 @@ $data = $this->getRows($sql);
                     </li>
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
-                            <span    style="float:left;height:30px;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
+                            <span    style="float:left;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
                         </div>
                     </li>
                 </ul>
