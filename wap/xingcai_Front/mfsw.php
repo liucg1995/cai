@@ -145,6 +145,7 @@
     timeout : 10000,
     dataType: "json",
     success : function(data){
+        console.log(data);
       if(data.code=='0')
       {
         //alert(data.msg);

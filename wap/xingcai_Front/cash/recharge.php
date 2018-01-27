@@ -261,7 +261,7 @@ $data = $this->getRows($sql);
                     </li>
                     <li class="rech-money">
                         <div style="width: 100%;margin-bottom: 10px;">
-                            <span    style="float:left;line-height:30px; color:red;">截图保存在相册，打开微信扫一扫，选择识别保存的二维码</span>
+                            <span    style="float:left;line-height:30px; color:red;">截图保存在相册，打开支付宝扫一扫，选择识别保存的二维码</span>
                         </div>
                     </li>
                 </ul>

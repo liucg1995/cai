@@ -296,6 +296,7 @@ class DBAccess extends PDO{
 
 			if(!$return=$stmt->execute($params)){
 				$err=$stmt->errorInfo();
+				var_dump($err);
 				throw new Exception(end($err));
 			}
 			return $return;
@@ -321,6 +322,8 @@ class DBAccess extends PDO{
 			$values.=":$key";
 		}
 		$sql.=") values($values)";
+
+
 
 		return $this->insert($sql, $data);
 	}

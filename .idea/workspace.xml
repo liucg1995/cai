@@ -2,55 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c53bc5-d798-4178-9a6a-b07c498b9d60" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170808/028baa4ffc9c9645ec12831a91917833.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170808/2e4c38b37f6ce07bfc4ce56bbf32dadc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170808/5864372a40d50dbab22f2e999313b599.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170808/9ae92b44a03626a1de41228962393705.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170808/e5874f77d22fd77948b6979335f5ffff.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170911/4009e987bae832c8a0b922b02bcfa9fc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170911/422de11aaf5594ca6f4f43f9fb623b91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170911/a26e7b0f8d954b2141ced2d11085eb98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170911/b432efdd1eaaf2aad36b0f94f533e219.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170915/d92544aaa4ec93b0ecc76c433e2fc40a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20170915/eef6e8852bdaa1a6be0229baedf83d66.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180121/2924a2b24883a257416617e32da19e46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180121/66d7f33cb30e7b5c25d5cf9bc82c20b3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180121/8ecaea62a16b3d4d7cc77b2529ad79db.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180122/66d7f33cb30e7b5c25d5cf9bc82c20b3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/c9486637096953a52936bffe660711dd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671ada54ed4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671af780be7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671c22da73d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671caf26b19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671d1b9cf1c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671f0cebee0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671f6e8bfb9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a689315f2254.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a68938865ffb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a6893d4d5028.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a6893fada93f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a68941c21c36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a68943a465e0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a68952f257f2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a68954200dfa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a6895523fc02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a68956e6ca4d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180124/file_5a689579aa90c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180125/file_5a6956da5de6a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180125/file_5a695afa0152b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/upload/uploads/upload_tmp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/tokens/242cc0af679dbfcd514a84561fe57dbe.token" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/tokens/e5ebb17268f661b19cbf7fcc859ffd95.token" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wap/upload/uploads/upload_tmp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/qrcode.png" afterPath="$PROJECT_DIR$/wap/qrcode.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/blast_back/admin/Upload.class.php" afterPath="$PROJECT_DIR$/admin/blast_back/admin/Upload.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/assets/js/application/signlog.js" afterPath="$PROJECT_DIR$/wap/assets/js/application/signlog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/blast_Front/admin/yongjin/yongjin.php" afterPath="$PROJECT_DIR$/admin/blast_Front/admin/yongjin/yongjin.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php" afterPath="$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_Front/sign/index.php" afterPath="$PROJECT_DIR$/wap/xingcai_Front/sign/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_back/Cash.class.php" afterPath="$PROJECT_DIR$/wap/xingcai_back/Cash.class.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/upload/uploads/201801/file_5a67194e5f11a.png" afterPath="$PROJECT_DIR$/wap/upload/uploads/files/20180123/file_5a671a9f75973.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_Front/mfsw.php" afterPath="$PROJECT_DIR$/wap/xingcai_Front/mfsw.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_back/User.class.php" afterPath="$PROJECT_DIR$/wap/xingcai_back/User.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wap/xingcai_lib/core/DBAccess.class" afterPath="$PROJECT_DIR$/wap/xingcai_lib/core/DBAccess.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/xingcai_back/User.class.php" afterPath="$PROJECT_DIR$/web/xingcai_back/User.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/xingcai_back/sign.class.php" afterPath="$PROJECT_DIR$/web/xingcai_back/sign.class.php" />
     </list>
     <ignored path="cai.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,169 +29,219 @@
     <favorites_list name="cai" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="recharge.php" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="recharge.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="625" column="36" selection-start-line="625" selection-start-column="36" selection-end-line="625" selection-end-column="36" />
+            <state relative-caret-position="618">
+              <caret line="263" column="98" selection-start-line="263" selection-start-column="98" selection-end-line="263" selection-end-column="98" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#label#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#label#1;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#label#2;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1516978574105" expanded="true" signature="3111:3161" ph="select * fro... $" />
-                <marker date="1516978574105" expanded="false" signature="5790:5800" ph="..." />
-                <marker date="1516978574105" expanded="false" signature="5935:5949" ph="..." />
-                <marker date="1516978574105" expanded="false" signature="6040:6051" ph="..." />
-                <marker date="1516978574105" expanded="false" signature="6179:6193" ph="..." />
+                <element signature="n#style#0;n#span#1;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#li#1;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#li#2;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#li#4;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1517027080229" expanded="true" signature="3111:3161" ph="select * fro... $" />
+                <marker date="1517027080229" expanded="false" signature="5790:5800" ph="..." />
+                <marker date="1517027080229" expanded="false" signature="5935:5949" ph="..." />
+                <marker date="1517027080229" expanded="false" signature="6040:6051" ph="..." />
+                <marker date="1517027080229" expanded="false" signature="6179:6193" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="User.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/xingcai_back/User.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="593" column="85" selection-start-line="593" selection-start-column="85" selection-end-line="593" selection-end-column="85" />
+              <folding>
+                <element signature="e#11728#15614#0#PHP" expanded="false" />
+                <marker date="1517029957587" expanded="true" signature="608:671" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="2876:2957" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="3752:3845" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="4385:4466" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="5449:5542" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="5575:5677" ph="select count... $" />
+                <marker date="1517029957587" expanded="true" signature="7289:7336" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="8454:8512" ph="select Value... $" />
+                <marker date="1517029957587" expanded="true" signature="8543:8590" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="8847:8902" ph="select paren... $" />
+                <marker date="1517029957587" expanded="true" signature="9302:9363" ph="select usern... $" />
+                <marker date="1517029957587" expanded="true" signature="9576:9657" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="9847:9937" ph="select count... $" />
+                <marker date="1517029957587" expanded="true" signature="10788:10835" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="12260:12321" ph="select usern... $" />
+                <marker date="1517029957587" expanded="true" signature="12544:12625" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="12682:12763" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="13526:13575" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="14233:14294" ph="select usern... $" />
+                <marker date="1517029957587" expanded="true" signature="14517:14598" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="14787:14868" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="16390:16485" ph="insert into ${$this-&gt;prename}data_time... " />
+                <marker date="1517029957587" expanded="true" signature="16710:16805" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="17020:17085" ph="select uid f... $" />
+                <marker date="1517029957587" expanded="true" signature="17160:17207" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="17242:17318" ph="select count... $" />
+                <marker date="1517029957587" expanded="true" signature="17659:17714" ph="select paren... $" />
+                <marker date="1517029957587" expanded="true" signature="18122:18183" ph="select usern... $" />
+                <marker date="1517029957587" expanded="true" signature="18396:18477" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="18915:18996" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="20776:20834" ph="select Value... $" />
+                <marker date="1517029957587" expanded="true" signature="20865:20912" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="21190:21245" ph="select paren... $" />
+                <marker date="1517029957587" expanded="true" signature="21645:21706" ph="select usern... $" />
+                <marker date="1517029957587" expanded="true" signature="21919:22000" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="22190:22280" ph="select count... $" />
+                <marker date="1517029957587" expanded="true" signature="23828:23886" ph="select Value... $" />
+                <marker date="1517029957587" expanded="true" signature="23917:23966" ph="select * fro... $" />
+                <marker date="1517029957587" expanded="true" signature="24554:24615" ph="select usern... $" />
+                <marker date="1517029957587" expanded="true" signature="24828:24909" ph="update ${{$t... " />
+                <marker date="1517029957587" expanded="true" signature="25351:25479" ph="select sum(c... blast_coin_log" />
+                <marker date="1517029957587" expanded="true" signature="25594:25651" ph="select count... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/xingcai_back/sign.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="100" column="46" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
+              <folding>
+                <marker date="1517030428362" expanded="true" signature="585:654" ph="select count... " />
+                <marker date="1517030428362" expanded="true" signature="897:983" ph="select count... " />
+                <marker date="1517030428362" expanded="true" signature="1256:1306" ph="select * fro... $" />
+                <marker date="1517030428362" expanded="true" signature="2353:2426" ph="select uid, $" />
+                <marker date="1517030428362" expanded="true" signature="2928:2993" ph="select id fr... $" />
+                <marker date="1517030428362" expanded="true" signature="4879:4937" ph="select paren... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Yongjin.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Yongjin.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="42" />
+              <folding>
+                <marker date="1504507624941" expanded="true" signature="270:305" ph="delete from " />
+                <marker date="1504507624941" expanded="true" signature="526:565" ph="select * fro... blast_yongjin" />
+                <marker date="1504507624941" expanded="true" signature="855:958" ph="update blast... " />
+                <marker date="1504507624941" expanded="true" signature="1017:1172" ph="update blast... " />
+                <marker date="1504507624941" expanded="true" signature="1231:1386" ph="update blast... " />
+                <marker date="1504507624941" expanded="true" signature="1442:1597" ph="update blast... " />
+                <marker date="1504507624941" expanded="true" signature="1653:1808" ph="update blast... " />
+                <marker date="1504507624941" expanded="true" signature="1864:2019" ph="update blast... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yongjin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/yongjin/yongjin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Index.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="29" />
+              <folding>
+                <marker date="1505371703621" expanded="true" signature="1304:1340" ph="select * fro... blast_type" />
+                <marker date="1505371703621" expanded="true" signature="2142:2180" ph="select * fro... blast_data" />
+                <marker date="1505371703621" expanded="true" signature="2819:2869" ph="select max(i... blast_data" />
+                <marker date="1505371703621" expanded="true" signature="3148:3354" ph="select t1.*,... id" />
+                <marker date="1505371703621" expanded="true" signature="3207:3279" ph="select id,da... " />
+                <marker date="1505371703621" expanded="true" signature="4015:4085" ph="select type,... $" />
+                <marker date="1505371703621" expanded="true" signature="4506:4576" ph="select type,... $" />
+                <marker date="1505371703621" expanded="true" signature="6862:6959" ph="select data $" />
+                <marker date="1505371703621" expanded="true" signature="8966:9031" ph="select * fro... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mfsw.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/mfsw.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="147" column="24" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_back/User.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="679" column="32" selection-start-line="679" selection-start-column="32" selection-end-line="679" selection-end-column="32" />
+              <folding>
+                <marker date="1517025321645" expanded="true" signature="961:1017" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="1321:1402" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="1519:1624" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="2000:2063" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="4850:4931" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="5909:6002" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="7533:7580" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="9838:9899" ph="select usern... $" />
+                <marker date="1517025321645" expanded="true" signature="10242:10323" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="12299:12360" ph="select usern... $" />
+                <marker date="1517025321645" expanded="true" signature="12656:12737" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="12812:12893" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="14356:14405" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="15394:15455" ph="select usern... $" />
+                <marker date="1517025321645" expanded="true" signature="15766:15847" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="16167:16248" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="17982:18029" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="19439:19497" ph="select Value... $" />
+                <marker date="1517025321645" expanded="true" signature="19537:19584" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="19946:20001" ph="select paren... $" />
+                <marker date="1517025321645" expanded="true" signature="20578:20639" ph="select usern... $" />
+                <marker date="1517025321645" expanded="true" signature="20914:20995" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="21240:21330" ph="select count... $" />
+                <marker date="1517025321645" expanded="true" signature="22584:22704" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="22984:23049" ph="select uid f... $" />
+                <marker date="1517025321645" expanded="true" signature="23156:23203" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="23247:23323" ph="select count... $" />
+                <marker date="1517025321645" expanded="true" signature="23758:23813" ph="select paren... $" />
+                <marker date="1517025321645" expanded="true" signature="24338:24399" ph="select usern... $" />
+                <marker date="1517025321645" expanded="true" signature="24659:24740" ph="update ${{$t... " />
+                <marker date="1517025321645" expanded="true" signature="25409:25490" ph="select * fro... $" />
+                <marker date="1517025321645" expanded="true" signature="26824:26952" ph="select sum(c... blast_coin_log" />
+                <marker date="1517025321645" expanded="true" signature="27106:27163" ph="select count... $" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBAccess.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wap/xingcai_lib/core/DBAccess.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="298" column="31" selection-start-line="298" selection-start-column="31" selection-end-line="298" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/sign/index.php">
+        <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/sign/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="49" column="44" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="44" />
-              <folding>
-                <marker date="1516977933892" expanded="true" signature="1851:1957" ph="select count... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signlog.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wap/assets/js/application/signlog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-              <folding>
-                <marker date="1516977965594" expanded="true" signature="350:368" ph="..." />
-                <marker date="1516977965594" expanded="true" signature="3239:3254" ph="..." />
-                <marker date="1516977965594" expanded="true" signature="3477:3493" ph="..." />
-                <marker date="1516977965594" expanded="true" signature="3593:3609" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wap/upload/uploads/upload_tmp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Upload.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Upload.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="36" column="89" selection-start-line="36" selection-start-column="82" selection-end-line="36" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/upload/uploads/upload_tmp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="c38_cz.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/xingcai_Front/safe/c38_cz.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="27" />
-              <folding>
-                <marker date="1516859356125" expanded="true" signature="59:109" ph="select * fro... $" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cash.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Cash.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="267" column="9" selection-start-line="267" selection-start-column="9" selection-end-line="267" selection-end-column="9" />
-              <folding>
-                <marker date="1516978457750" expanded="true" signature="763:937" ph="select c.*, $" />
-                <marker date="1516978457750" expanded="true" signature="1278:1499" ph="select a.rec... $" />
-                <marker date="1516978457750" expanded="true" signature="2025:2185" ph="select m.*,b... $" />
-                <marker date="1516978457750" expanded="true" signature="2792:2843" ph="select * fro... $" />
-                <marker date="1516978457750" expanded="true" signature="3184:3348" ph="update ${{$t... " />
-                <marker date="1516978457750" expanded="true" signature="3941:4024" ph="select usern... $" />
-                <marker date="1516978457750" expanded="true" signature="5068:5284" ph="select sum(c... $" />
-                <marker date="1516978457750" expanded="true" signature="5446:5583" ph="select sum(m... $" />
-                <marker date="1516978457750" expanded="true" signature="6054:6136" ph="select count... $" />
-                <marker date="1516978457750" expanded="true" signature="6193:6262" ph="select maxTo... $" />
-                <marker date="1516978457750" expanded="true" signature="7089:7140" ph="select * fro... $" />
-                <marker date="1516978457750" expanded="true" signature="7700:7756" ph="update ${{$t... " />
-                <marker date="1516978457750" expanded="true" signature="10674:10729" ph="select usern... $" />
-                <marker date="1516978457750" expanded="true" signature="13072:13127" ph="select usern... $" />
-                <marker date="1516978457750" expanded="true" signature="15655:15737" ph="select count... $" />
-                <marker date="1516978457750" expanded="true" signature="15891:15968" ph="select uid f... $" />
-                <marker date="1516978457750" expanded="true" signature="16165:16233" ph="update ${{$t... " />
-                <marker date="1516978457750" expanded="true" signature="17626:17690" ph="select id fr... $" />
-                <marker date="1516978457750" expanded="true" signature="18780:18862" ph="select count... $" />
-                <marker date="1516978457750" expanded="true" signature="18998:19075" ph="select uid f... $" />
-                <marker date="1516978457750" expanded="true" signature="19195:19263" ph="update ${{$t... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cash.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/xingcai_back/Cash.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
-              <folding>
-                <marker date="1516955942893" expanded="true" signature="1509:1568" ph="select bankI... $" />
-                <marker date="1516955942893" expanded="true" signature="3350:3401" ph="select * fro... $" />
-                <marker date="1516955942893" expanded="true" signature="3742:3906" ph="update ${{$t... " />
-                <marker date="1516955942893" expanded="true" signature="4515:4598" ph="select usern... $" />
-                <marker date="1516955942893" expanded="true" signature="5704:5920" ph="select sum(c... $" />
-                <marker date="1516955942893" expanded="true" signature="6082:6219" ph="select sum(m... $" />
-                <marker date="1516955942893" expanded="true" signature="6726:6808" ph="select count... $" />
-                <marker date="1516955942893" expanded="true" signature="6865:6934" ph="select maxTo... $" />
-                <marker date="1516955942893" expanded="true" signature="7811:7862" ph="select * fro... $" />
-                <marker date="1516955942893" expanded="true" signature="8422:8478" ph="update ${{$t... " />
-                <marker date="1516955942893" expanded="true" signature="11542:11606" ph="select id fr... $" />
-                <marker date="1516955942893" expanded="true" signature="11927:11982" ph="select usern... $" />
-                <marker date="1516955942893" expanded="true" signature="13714:13769" ph="select usern... $" />
-                <marker date="1516955942893" expanded="true" signature="16623:16705" ph="select count... $" />
-                <marker date="1516955942893" expanded="true" signature="16857:16934" ph="select uid f... $" />
-                <marker date="1516955942893" expanded="true" signature="17127:17195" ph="update ${{$t... " />
-                <marker date="1516955942893" expanded="true" signature="19209:19291" ph="select count... $" />
-                <marker date="1516955942893" expanded="true" signature="19427:19504" ph="select uid f... $" />
-                <marker date="1516955942893" expanded="true" signature="19624:19692" ph="update ${{$t... " />
-                <marker date="1516955942893" expanded="true" signature="23629:23711" ph="select count... $" />
-                <marker date="1516955942893" expanded="true" signature="23844:23921" ph="select uid f... $" />
-                <marker date="1516955942893" expanded="true" signature="24047:24115" ph="update ${{$t... " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -255,7 +264,13 @@
         <option value="$PROJECT_DIR$/wap/xingcai_Front/sign/index.php" />
         <option value="$PROJECT_DIR$/wap/assets/js/application/signlog.js" />
         <option value="$PROJECT_DIR$/wap/xingcai_back/Cash.class.php" />
+        <option value="$PROJECT_DIR$/wap/xingcai_Front/mfsw.php" />
+        <option value="$PROJECT_DIR$/wap/xingcai_lib/core/DBAccess.class" />
+        <option value="$PROJECT_DIR$/wap/xingcai_back/User.class.php" />
         <option value="$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php" />
+        <option value="$PROJECT_DIR$/admin/blast_Front/admin/yongjin/yongjin.php" />
+        <option value="$PROJECT_DIR$/web/xingcai_back/User.class.php" />
+        <option value="$PROJECT_DIR$/web/xingcai_back/sign.class.php" />
       </list>
     </option>
   </component>
@@ -269,8 +284,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="703" />
+    <option name="width" value="2576" />
+    <option name="height" value="1375" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -297,8 +312,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -345,6 +358,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="xingcai_back" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="upload" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -407,127 +438,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xingcai_Front" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xingcai_Front" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sign" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="upload" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="upload" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cai" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="upload" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -555,6 +466,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -564,6 +477,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\phpStudy\WWW\cai\admin\blast_Front\admin\sign" />
+      <recent name="E:\phpStudy\WWW\cai\admin\blast_back\admin" />
       <recent name="E:\phpStudy\WWW\cai\wap\upload" />
       <recent name="E:\phpStudy\WWW\cai\web\assets\js\application" />
       <recent name="E:\phpStudy\WWW\cai\wap\xingcai_Front\cash" />
@@ -588,6 +503,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -621,32 +542,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516949206411</updated>
-      <workItem from="1516949208902" duration="10542000" />
+      <workItem from="1516949208902" duration="11192000" />
+      <workItem from="1517023817673" duration="6001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10542000" />
+    <option name="totallyTimeSpent" value="17193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1375" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24726562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -667,6 +589,129 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11875">
+          <caret line="625" column="36" selection-start-line="625" selection-start-column="36" selection-end-line="625" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#1;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#2;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#4;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1517027080229" expanded="true" signature="3111:3161" ph="select * fro... $" />
+            <marker date="1517027080229" expanded="false" signature="5790:5800" ph="..." />
+            <marker date="1517027080229" expanded="false" signature="5935:5949" ph="..." />
+            <marker date="1517027080229" expanded="false" signature="6040:6051" ph="..." />
+            <marker date="1517027080229" expanded="false" signature="6179:6193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Sign.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1516889943009" expanded="true" signature="415:475" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/sign/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/sign/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="44" />
+          <folding>
+            <marker date="1516977933892" expanded="true" signature="1851:1957" ph="select count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/assets/js/application/signlog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <marker date="1516977965594" expanded="true" signature="350:368" ph="..." />
+            <marker date="1516977965594" expanded="true" signature="3239:3254" ph="..." />
+            <marker date="1516977965594" expanded="true" signature="3477:3493" ph="..." />
+            <marker date="1516977965594" expanded="true" signature="3593:3609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/upload/uploads/upload_tmp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Upload.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="89" selection-start-line="36" selection-start-column="82" selection-end-line="36" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/upload/uploads/upload_tmp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Cash.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5073">
+          <caret line="267" column="9" selection-start-line="267" selection-start-column="9" selection-end-line="267" selection-end-column="9" />
+          <folding>
+            <marker date="1516978457750" expanded="true" signature="763:937" ph="select c.*, $" />
+            <marker date="1516978457750" expanded="true" signature="1278:1499" ph="select a.rec... $" />
+            <marker date="1516978457750" expanded="true" signature="2025:2185" ph="select m.*,b... $" />
+            <marker date="1516978457750" expanded="true" signature="2792:2843" ph="select * fro... $" />
+            <marker date="1516978457750" expanded="true" signature="3184:3348" ph="update ${{$t... " />
+            <marker date="1516978457750" expanded="true" signature="3941:4024" ph="select usern... $" />
+            <marker date="1516978457750" expanded="true" signature="5068:5284" ph="select sum(c... $" />
+            <marker date="1516978457750" expanded="true" signature="5446:5583" ph="select sum(m... $" />
+            <marker date="1516978457750" expanded="true" signature="6054:6136" ph="select count... $" />
+            <marker date="1516978457750" expanded="true" signature="6193:6262" ph="select maxTo... $" />
+            <marker date="1516978457750" expanded="true" signature="7089:7140" ph="select * fro... $" />
+            <marker date="1516978457750" expanded="true" signature="7700:7756" ph="update ${{$t... " />
+            <marker date="1516978457750" expanded="true" signature="10674:10729" ph="select usern... $" />
+            <marker date="1516978457750" expanded="true" signature="13072:13127" ph="select usern... $" />
+            <marker date="1516978457750" expanded="true" signature="15655:15737" ph="select count... $" />
+            <marker date="1516978457750" expanded="true" signature="15891:15968" ph="select uid f... $" />
+            <marker date="1516978457750" expanded="true" signature="16165:16233" ph="update ${{$t... " />
+            <marker date="1516978457750" expanded="true" signature="17626:17690" ph="select id fr... $" />
+            <marker date="1516978457750" expanded="true" signature="18780:18862" ph="select count... $" />
+            <marker date="1516978457750" expanded="true" signature="18998:19075" ph="select uid f... $" />
+            <marker date="1516978457750" expanded="true" signature="19195:19263" ph="update ${{$t... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Safe.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -692,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-171">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,20 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-665">
           <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <marker date="1503045929839" expanded="true" signature="12115:12133" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="12147:12160" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="12276:12341" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="12658:12689" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="12739:12770" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="13187:13218" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="13293:13327" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="15471:15501" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="15840:15896" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="15971:16030" ph="..." />
-            <marker date="1503045929839" expanded="true" signature="16802:16808" ph=" " />
-            <marker date="1503045929839" expanded="true" signature="16808:16814" ph=" " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -721,20 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="399" column="24" selection-start-line="399" selection-start-column="13" selection-end-line="399" selection-end-column="24" />
-          <folding>
-            <marker date="1516951207792" expanded="true" signature="12184:12202" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="12216:12229" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="12345:12410" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="12727:12758" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="12808:12839" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="13256:13287" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="13362:13396" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="15540:15570" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="15909:15965" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="16040:16099" ph="..." />
-            <marker date="1516951207792" expanded="true" signature="16871:16877" ph=" " />
-            <marker date="1516951207792" expanded="true" signature="16877:16883" ph=" " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="676" column="0" selection-start-line="676" selection-start-column="0" selection-end-line="676" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,10 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
-          <folding>
-            <marker date="1516953941388" expanded="true" signature="130:252" ph="select *,t2.... blast_sysadmin_bank" />
-            <marker date="1516953941388" expanded="true" signature="2641:2705" ph="select id fr... $" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-700">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,12 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-418">
           <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-          <folding>
-            <marker date="1516953827477" expanded="true" signature="1223:1447" ph="select c.*, $" />
-            <marker date="1516953827477" expanded="true" signature="1516:1555" ph="select * fro... $" />
-            <marker date="1516953827477" expanded="true" signature="1681:1848" ph="select b.hom... $" />
-            <marker date="1516953827477" expanded="true" signature="2598:2675" ph="select usern... $" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,30 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
           <caret line="301" column="44" selection-start-line="301" selection-start-column="44" selection-end-line="301" selection-end-column="44" />
-          <folding>
-            <marker date="1516955942893" expanded="true" signature="1509:1568" ph="select bankI... $" />
-            <marker date="1516955942893" expanded="true" signature="3350:3401" ph="select * fro... $" />
-            <marker date="1516955942893" expanded="true" signature="3742:3906" ph="update ${{$t... " />
-            <marker date="1516955942893" expanded="true" signature="4515:4598" ph="select usern... $" />
-            <marker date="1516955942893" expanded="true" signature="5704:5920" ph="select sum(c... $" />
-            <marker date="1516955942893" expanded="true" signature="6082:6219" ph="select sum(m... $" />
-            <marker date="1516955942893" expanded="true" signature="6726:6808" ph="select count... $" />
-            <marker date="1516955942893" expanded="true" signature="6865:6934" ph="select maxTo... $" />
-            <marker date="1516955942893" expanded="true" signature="7811:7862" ph="select * fro... $" />
-            <marker date="1516955942893" expanded="true" signature="8422:8478" ph="update ${{$t... " />
-            <marker date="1516955942893" expanded="true" signature="11542:11606" ph="select id fr... $" />
-            <marker date="1516955942893" expanded="true" signature="11927:11982" ph="select usern... $" />
-            <marker date="1516955942893" expanded="true" signature="13714:13769" ph="select usern... $" />
-            <marker date="1516955942893" expanded="true" signature="16623:16705" ph="select count... $" />
-            <marker date="1516955942893" expanded="true" signature="16857:16934" ph="select uid f... $" />
-            <marker date="1516955942893" expanded="true" signature="17127:17195" ph="update ${{$t... " />
-            <marker date="1516955942893" expanded="true" signature="19209:19291" ph="select count... $" />
-            <marker date="1516955942893" expanded="true" signature="19427:19504" ph="select uid f... $" />
-            <marker date="1516955942893" expanded="true" signature="19624:19692" ph="update ${{$t... " />
-            <marker date="1516955942893" expanded="true" signature="23629:23711" ph="select count... $" />
-            <marker date="1516955942893" expanded="true" signature="23844:23921" ph="select uid f... $" />
-            <marker date="1516955942893" expanded="true" signature="24047:24115" ph="update ${{$t... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <marker date="1516859356125" expanded="true" signature="59:109" ph="select * fro... $" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,7 +813,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="513">
           <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
           <folding />
         </state>
@@ -845,7 +821,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Upload.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="684">
           <caret line="36" column="89" selection-start-line="36" selection-start-column="82" selection-end-line="36" selection-end-column="89" />
           <folding />
         </state>
@@ -861,7 +837,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/sign/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="931">
           <caret line="49" column="44" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="44" />
           <folding>
             <marker date="1516977933892" expanded="true" signature="1851:1957" ph="select count... " />
@@ -871,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Cash.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
+        <state relative-caret-position="5073">
           <caret line="267" column="9" selection-start-line="267" selection-start-column="9" selection-end-line="267" selection-end-column="9" />
           <folding>
             <marker date="1516978457750" expanded="true" signature="763:937" ph="select c.*, $" />
@@ -901,7 +877,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wap/assets/js/application/signlog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="741">
           <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
           <folding>
             <marker date="1516977965594" expanded="true" signature="350:368" ph="..." />
@@ -912,22 +888,208 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Sign.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1516889943009" expanded="true" signature="415:475" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/sign/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_back/Index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <marker date="1505371703621" expanded="true" signature="1304:1340" ph="select * fro... blast_type" />
+            <marker date="1505371703621" expanded="true" signature="2142:2180" ph="select * fro... blast_data" />
+            <marker date="1505371703621" expanded="true" signature="2819:2869" ph="select max(i... blast_data" />
+            <marker date="1505371703621" expanded="true" signature="3148:3354" ph="select t1.*,... id" />
+            <marker date="1505371703621" expanded="true" signature="3207:3279" ph="select id,da... " />
+            <marker date="1505371703621" expanded="true" signature="4015:4085" ph="select type,... $" />
+            <marker date="1505371703621" expanded="true" signature="4506:4576" ph="select type,... $" />
+            <marker date="1505371703621" expanded="true" signature="6862:6959" ph="select data $" />
+            <marker date="1505371703621" expanded="true" signature="8966:9031" ph="select * fro... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/mfsw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="147" column="24" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_lib/core/DBAccess.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="298" column="31" selection-start-line="298" selection-start-column="31" selection-end-line="298" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap/xingcai_back/User.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="679" column="32" selection-start-line="679" selection-start-column="32" selection-end-line="679" selection-end-column="32" />
+          <folding>
+            <marker date="1517025321645" expanded="true" signature="961:1017" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="1321:1402" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="1519:1624" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="2000:2063" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="4850:4931" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="5909:6002" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="7533:7580" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="9838:9899" ph="select usern... $" />
+            <marker date="1517025321645" expanded="true" signature="10242:10323" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="12299:12360" ph="select usern... $" />
+            <marker date="1517025321645" expanded="true" signature="12656:12737" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="12812:12893" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="14356:14405" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="15394:15455" ph="select usern... $" />
+            <marker date="1517025321645" expanded="true" signature="15766:15847" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="16167:16248" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="17982:18029" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="19439:19497" ph="select Value... $" />
+            <marker date="1517025321645" expanded="true" signature="19537:19584" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="19946:20001" ph="select paren... $" />
+            <marker date="1517025321645" expanded="true" signature="20578:20639" ph="select usern... $" />
+            <marker date="1517025321645" expanded="true" signature="20914:20995" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="21240:21330" ph="select count... $" />
+            <marker date="1517025321645" expanded="true" signature="22584:22704" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="22984:23049" ph="select uid f... $" />
+            <marker date="1517025321645" expanded="true" signature="23156:23203" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="23247:23323" ph="select count... $" />
+            <marker date="1517025321645" expanded="true" signature="23758:23813" ph="select paren... $" />
+            <marker date="1517025321645" expanded="true" signature="24338:24399" ph="select usern... $" />
+            <marker date="1517025321645" expanded="true" signature="24659:24740" ph="update ${{$t... " />
+            <marker date="1517025321645" expanded="true" signature="25409:25490" ph="select * fro... $" />
+            <marker date="1517025321645" expanded="true" signature="26824:26952" ph="select sum(c... blast_coin_log" />
+            <marker date="1517025321645" expanded="true" signature="27106:27163" ph="select count... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wap/xingcai_Front/cash/recharge.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="625" column="36" selection-start-line="625" selection-start-column="36" selection-end-line="625" selection-end-column="36" />
+        <state relative-caret-position="618">
+          <caret line="263" column="98" selection-start-line="263" selection-start-column="98" selection-end-line="263" selection-end-column="98" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#label#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#label#1;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#label#2;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1516978574105" expanded="true" signature="3111:3161" ph="select * fro... $" />
-            <marker date="1516978574105" expanded="false" signature="5790:5800" ph="..." />
-            <marker date="1516978574105" expanded="false" signature="5935:5949" ph="..." />
-            <marker date="1516978574105" expanded="false" signature="6040:6051" ph="..." />
-            <marker date="1516978574105" expanded="false" signature="6179:6193" ph="..." />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#1;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#li#2;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#4;n#ul#0;n#div#3;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1517027080229" expanded="true" signature="3111:3161" ph="select * fro... $" />
+            <marker date="1517027080229" expanded="false" signature="5790:5800" ph="..." />
+            <marker date="1517027080229" expanded="false" signature="5935:5949" ph="..." />
+            <marker date="1517027080229" expanded="false" signature="6040:6051" ph="..." />
+            <marker date="1517027080229" expanded="false" signature="6179:6193" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_back/admin/Yongjin.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="42" />
+          <folding>
+            <marker date="1504507624941" expanded="true" signature="270:305" ph="delete from " />
+            <marker date="1504507624941" expanded="true" signature="526:565" ph="select * fro... blast_yongjin" />
+            <marker date="1504507624941" expanded="true" signature="855:958" ph="update blast... " />
+            <marker date="1504507624941" expanded="true" signature="1017:1172" ph="update blast... " />
+            <marker date="1504507624941" expanded="true" signature="1231:1386" ph="update blast... " />
+            <marker date="1504507624941" expanded="true" signature="1442:1597" ph="update blast... " />
+            <marker date="1504507624941" expanded="true" signature="1653:1808" ph="update blast... " />
+            <marker date="1504507624941" expanded="true" signature="1864:2019" ph="update blast... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/blast_Front/admin/yongjin/yongjin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/xingcai_back/User.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="593" column="85" selection-start-line="593" selection-start-column="85" selection-end-line="593" selection-end-column="85" />
+          <folding>
+            <element signature="e#11728#15614#0#PHP" expanded="false" />
+            <marker date="1517029957587" expanded="true" signature="608:671" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="2876:2957" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="3752:3845" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="4385:4466" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="5449:5542" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="5575:5677" ph="select count... $" />
+            <marker date="1517029957587" expanded="true" signature="7289:7336" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="8454:8512" ph="select Value... $" />
+            <marker date="1517029957587" expanded="true" signature="8543:8590" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="8847:8902" ph="select paren... $" />
+            <marker date="1517029957587" expanded="true" signature="9302:9363" ph="select usern... $" />
+            <marker date="1517029957587" expanded="true" signature="9576:9657" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="9847:9937" ph="select count... $" />
+            <marker date="1517029957587" expanded="true" signature="10788:10835" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="12260:12321" ph="select usern... $" />
+            <marker date="1517029957587" expanded="true" signature="12544:12625" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="12682:12763" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="13526:13575" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="14233:14294" ph="select usern... $" />
+            <marker date="1517029957587" expanded="true" signature="14517:14598" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="14787:14868" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="16390:16485" ph="insert into ${$this-&gt;prename}data_time... " />
+            <marker date="1517029957587" expanded="true" signature="16710:16805" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="17020:17085" ph="select uid f... $" />
+            <marker date="1517029957587" expanded="true" signature="17160:17207" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="17242:17318" ph="select count... $" />
+            <marker date="1517029957587" expanded="true" signature="17659:17714" ph="select paren... $" />
+            <marker date="1517029957587" expanded="true" signature="18122:18183" ph="select usern... $" />
+            <marker date="1517029957587" expanded="true" signature="18396:18477" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="18915:18996" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="20776:20834" ph="select Value... $" />
+            <marker date="1517029957587" expanded="true" signature="20865:20912" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="21190:21245" ph="select paren... $" />
+            <marker date="1517029957587" expanded="true" signature="21645:21706" ph="select usern... $" />
+            <marker date="1517029957587" expanded="true" signature="21919:22000" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="22190:22280" ph="select count... $" />
+            <marker date="1517029957587" expanded="true" signature="23828:23886" ph="select Value... $" />
+            <marker date="1517029957587" expanded="true" signature="23917:23966" ph="select * fro... $" />
+            <marker date="1517029957587" expanded="true" signature="24554:24615" ph="select usern... $" />
+            <marker date="1517029957587" expanded="true" signature="24828:24909" ph="update ${{$t... " />
+            <marker date="1517029957587" expanded="true" signature="25351:25479" ph="select sum(c... blast_coin_log" />
+            <marker date="1517029957587" expanded="true" signature="25594:25651" ph="select count... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/xingcai_back/sign.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="100" column="46" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
+          <folding>
+            <marker date="1517030428362" expanded="true" signature="585:654" ph="select count... " />
+            <marker date="1517030428362" expanded="true" signature="897:983" ph="select count... " />
+            <marker date="1517030428362" expanded="true" signature="1256:1306" ph="select * fro... $" />
+            <marker date="1517030428362" expanded="true" signature="2353:2426" ph="select uid, $" />
+            <marker date="1517030428362" expanded="true" signature="2928:2993" ph="select id fr... $" />
+            <marker date="1517030428362" expanded="true" signature="4879:4937" ph="select paren... $" />
           </folding>
         </state>
       </provider>

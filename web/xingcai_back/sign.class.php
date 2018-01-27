@@ -92,7 +92,7 @@ class sign extends WebLoginBase
                                     'uid' => $user['uid'],
                                     'liqType' => 1,
                                     'coin' => $amount,
-                                    'extfield0' => $dataId,
+                                    'extfield0' => 0,
                                     'extfield1' => $data['rechargeId'],
                                     'info' => '充值'
                                 ));

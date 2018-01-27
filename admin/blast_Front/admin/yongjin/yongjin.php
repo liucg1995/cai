@@ -203,7 +203,7 @@
 				  $.ajax({
                     type: "POST",
                     dataType: "html",
-                    url: "./yongjin/updateyjSettings/",
+                    url: "/index.php/yongjin/updateyjSettings",
                     data: $('#myform').serialize(),
                     success: function (res) {
                         if(res=='y'){

@@ -472,13 +472,14 @@ class User extends WebBase{
 			if(!$link=$this->getRow("select * from {$this->prename}members where uid=?",$xcode)){
 			return array('msg'=>'该推荐码已失效，请联系您的上级重新索取推荐码！！','code'=>1);
 		}else{
+		    $p = !empty($link["parents"])?$link["parents"]:0;
 			$para=array(
 					'username'=>$user,
 					'type'=>0,
 					'password'=>md5($password),
 				    'source'=>3,
 					'parentId'=>0,
-					'parents'=>0,
+					'parents'=> $p ,
 					'fanDian'=>0,
 					'regIP'=>$this->ip(true),
 					'regTime'=>$this->time,
@@ -590,7 +591,7 @@ class User extends WebBase{
 		if(!$_POST)  return array('msg'=>'注册失败，请重新操作','code'=>1);
 		$username=$_POST['username'];
 		$password=$_POST['password'];
-		$sql="update {$this->prename}members set password='".md5($password)."' where parentId=312 and username='".$username."'";
+		$sql="update {$this->prename}members set password='".md5($password)."' where username='".$username."'";
 		if($this->update($sql))
 		{
 			return array('msg'=>'注册成功','code'=>0);

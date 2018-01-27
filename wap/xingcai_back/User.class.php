@@ -666,6 +666,7 @@ class User extends WebBase
             if ($this->getValue($sql, $para['username'])) throw new Exception('用户"' . $para['username'] . '"已经存在');
             if ($this->insertRow($this->prename . 'members', $para)) {
                 $id = $this->lastInsertId();
+
                 $sql = "update {$this->prename}members set parents=concat(parents, ',', $id) where `uid`=$id";
                 $this->update($sql);
                 $log = array(
@@ -713,7 +714,7 @@ class User extends WebBase
             }
         } catch (Exception $e) {
             $this->rollBack();
-            return array('msg' => '注册失败', 'code' => 1);
+            return array('msg' => '注册失败', 'code' => 2);
             //new Exception('error');
             //throw $e;
         }
